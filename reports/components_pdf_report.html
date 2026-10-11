@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>System Components Report - AI Library Recommendation System</title>
+    <style>
+        @media print {
+            body { font-size: 10pt; margin: 15mm 10mm; background: white; }
+            .no-print { display: none; }
+            .page-break { page-break-before: always; }
+        }
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            color: #111;
+            line-height: 1.5;
+            max-width: 850px;
+            margin: 0 auto;
+            padding: 25px;
+            background: #fcfcfc;
+        }
+        .header {
+            text-align: center;
+            border-bottom: 3px double #1E3C72;
+            padding-bottom: 15px;
+            margin-bottom: 25px;
+        }
+        .title { font-size: 22pt; font-weight: bold; color: #1E3C72; margin: 0; }
+        .subtitle { font-size: 13pt; color: #555; margin-top: 5px; font-weight: 600; }
+        .badge { background: #1E3C72; color: white; padding: 4px 10px; border-radius: 4px; font-size: 9pt; font-weight: bold; }
+        .badge-ds { background: #2e7d32; color: white; padding: 4px 10px; border-radius: 4px; font-size: 9pt; font-weight: bold; }
+        .badge-ai { background: #1565c0; color: white; padding: 4px 10px; border-radius: 4px; font-size: 9pt; font-weight: bold; }
+        
+        table { width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 9.5pt; }
+        th, td { border: 1px solid #bbb; padding: 9px 12px; text-align: left; }
+        th { background: #1E3C72; color: white; font-weight: bold; }
+        tr:nth-child(even) { background: #f4f6f9; }
+
+        .card {
+            border: 1px solid #ddd;
+            border-left: 4px solid #1E3C72;
+            background: #fff;
+            padding: 12px 16px;
+            margin-bottom: 14px;
+            border-radius: 4px;
+        }
+        .card-title { font-size: 11pt; font-weight: bold; color: #1E3C72; margin-bottom: 4px; }
+        
+        .print-btn {
+            background: #2e7d32; color: white; border: none; padding: 12px 24px; font-size: 12pt;
+            font-weight: bold; border-radius: 6px; cursor: pointer; margin-bottom: 20px;
+        }
+        .print-btn:hover { background: #1b5e20; }
+    </style>
+</head>
+<body>
+
+    <button class="print-btn no-print" onclick="window.print()">🖨️ Save as PDF / Print</button>
+
+    <div class="header">
+        <div class="title">SYSTEM COMPONENTS REPORT</div>
+        <div class="subtitle">AI-Based Library Recommendation System (NMIET Topic No. 3)</div>
+        <div style="margin-top: 10px;">
+            <span class="badge-ds">Data Structures Mapping</span> &nbsp;
+            <span class="badge-ai">AI/ML Models</span> &nbsp;
+            <span class="badge">Code Modules & Datasets</span>
+        </div>
+    </div>
+
+    <h2>1. System Components & Usage Matrix</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>System Part / Feature</th>
+                <th>Component Used</th>
+                <th>Type</th>
+                <th>Source File</th>
+                <th>Operational Role</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><b>Tab 1: AI Recommendations</b></td>
+                <td><b>Hybrid Recommender Engine</b></td>
+                <td>AI/ML Model</td>
+                <td><code>ml/recommender.py</code></td>
+                <td>TF-IDF Content Similarity (60%) + Collaborative Filtering (40%) on borrow history.</td>
+            </tr>
+            <tr>
+                <td><b>Tab 2: Book Catalog</b></td>
+                <td><b>Binary Search Tree (BST)</b></td>
+                <td>Data Structure</td>
+                <td><code>ds/bst.py</code></td>
+                <td>Indexes books by numeric Book ID for $O(\log N)$ search and sorted in-order traversal.</td>
+            </tr>
+            <tr>
+                <td><b>Tab 3: Fast Lookup</b></td>
+                <td><b>Hash Table (Separate Chaining)</b></td>
+                <td>Data Structure</td>
+                <td><code>ds/hash_table.py</code></td>
+                <td>Polynomial rolling hash function mapping ISBN strings for instant $O(1)$ lookup.</td>
+            </tr>
+            <tr>
+                <td><b>Tab 4: Borrow History</b></td>
+                <td><b>Singly Linked List</b></td>
+                <td>Data Structure</td>
+                <td><code>ds/linked_list.py</code></td>
+                <td>Appends dynamic chronological loan transaction nodes (<code>head -> node -> null</code>).</td>
+            </tr>
+            <tr>
+                <td><b>Tab 5: Reservation Queue</b></td>
+                <td><b>Linked Queue (FIFO)</b></td>
+                <td>Data Structure</td>
+                <td><code>ds/queue.py</code></td>
+                <td>Manages fair First-In, First-Out waiting lists for popular books currently checked out.</td>
+            </tr>
+            <tr>
+                <td><b>Tab 6: Student & Book Manager</b></td>
+                <td><b>Interactive Data Editors (CRUD)</b></td>
+                <td>UI / Database</td>
+                <td><code>app.py (Tab 6)</code></td>
+                <td>Forms to <b>Add / Delete</b> student profiles and books with instant DS sync.</td>
+            </tr>
+            <tr>
+                <td><b>Tab 7: Performance Analytics</b></td>
+                <td><b>Execution Benchmarks</b></td>
+                <td>Evaluator</td>
+                <td><code>ml/train_model.py</code></td>
+                <td>Measures BST $O(\log N)$ search timing ($20.3\times$ faster than Linear Search).</td>
+            </tr>
+            <tr>
+                <td><b>C++ Core Engine</b></td>
+                <td><b>Pure C++ Classes</b></td>
+                <td>Source Engine</td>
+                <td><code>cpp_engine/main.cpp</code></td>
+                <td>Custom C++ implementations of Linked List, BST, Hash Table, and Queue.</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>2. Component Detailed Breakdown</h2>
+
+    <div class="card">
+        <div class="card-title">🌳 Component 1: Binary Search Tree (BST)</div>
+        <b>Used In</b>: Tab 2 (Book Catalog) & Tab 6 (Book Management)<br/>
+        <b>Source File</b>: <code>ds/bst.py</code> | <code>cpp_engine/main.cpp</code><br/>
+        <b>Functionality</b>: Stores books sorted by Book ID. Enables $O(\log N)$ binary searching and $O(N)$ sorted in-order catalog traversals.
+    </div>
+
+    <div class="card">
+        <div class="card-title">⚡ Component 2: Hash Table with Separate Chaining</div>
+        <b>Used In</b>: Tab 3 (Fast ISBN Lookup)<br/>
+        <b>Source File</b>: <code>ds/hash_table.py</code> | <code>cpp_engine/main.cpp</code><br/>
+        <b>Functionality</b>: Computes polynomial rolling hash values for 13-digit ISBN strings and handles bucket collisions using linked lists for instant $O(1)$ lookup.
+    </div>
+
+    <div class="card">
+        <div class="card-title">🔗 Component 3: Singly Linked List</div>
+        <b>Used In</b>: Tab 4 (Borrowing History Log)<br/>
+        <b>Source File</b>: <code>ds/linked_list.py</code> | <code>cpp_engine/main.cpp</code><br/>
+        <b>Functionality</b>: Dynamically connects transaction nodes via pointers without pre-allocated fixed memory limits.
+    </div>
+
+    <div class="card">
+        <div class="card-title">⏳ Component 4: Linked Queue (FIFO)</div>
+        <b>Used In</b>: Tab 5 (Book Reservation Queue)<br/>
+        <b>Source File</b>: <code>ds/queue.py</code> | <code>cpp_engine/main.cpp</code><br/>
+        <b>Functionality</b>: Maintains strict First-In, First-Out (FIFO) queue for student book reservation requests.
+    </div>
+
+    <div class="card">
+        <div class="card-title">🤖 Component 5: Hybrid AI Recommendation Model</div>
+        <b>Used In</b>: Tab 1 (AI Recommendations)<br/>
+        <b>Source File</b>: <code>ml/recommender.py</code><br/>
+        <b>Functionality</b>: Combines Content-Based Filtering (TF-IDF + Cosine Similarity) and Collaborative Filtering (User-Item matrix) to recommend books based on borrowing history.
+    </div>
+
+    <div class="card">
+        <div class="card-title">💾 Component 6: Datasets & Persistent Files</div>
+        <b>Used In</b>: System Data Storage<br/>
+        <b>Source File</b>: <code>data/books.csv</code> | <code>data/users.csv</code> | <code>data/borrowing_history.csv</code><br/>
+        <b>Functionality</b>: Stores persistent records for books, student profiles, and historical borrowing transactions.
+    </div>
+
+    <div style="margin-top: 30px; text-align: center; color: #777; font-size: 8.5pt;">
+        Components Report Generated for NMIET Mini Project Exhibition 2026 | Department of E&TC / Data Structures
+    </div>
+
+</body>
+</html>

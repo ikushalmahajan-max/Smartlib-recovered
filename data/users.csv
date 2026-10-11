@@ -1,0 +1,251 @@
+user_id,name,department,year,email
+201,Aarav Bhat,Electronics,SE,aarav.bhat201@nmiet.edu.in
+202,Ananya Sharma,Networking,TE,ananya.sharma202@nmiet.edu.in
+203,Aditya Verma,Electronics,TE,aditya.verma203@nmiet.edu.in
+204,Manish Rao,Software Engineering,TE,manish.rao204@nmiet.edu.in
+205,Neha Patel,Databases,SE,neha.patel205@nmiet.edu.in
+206,Rohan Nair,Information Technology,BE,rohan.nair206@nmiet.edu.in
+207,Isha Malhotra,Computer Science,TE,isha.malhotra207@nmiet.edu.in
+208,Priya Nair,Databases,FE,priya.nair208@nmiet.edu.in
+209,Priya Singh,Information Technology,TE,priya.singh209@nmiet.edu.in
+210,Pooja Gupta,Computer Science,SE,pooja.gupta210@nmiet.edu.in
+211,Riya Singh,E&TC,BE,riya.singh211@nmiet.edu.in
+212,Priya Deshmukh,E&TC,TE,priya.deshmukh212@nmiet.edu.in
+213,Tanvi Mehta,AI & Data Science,TE,tanvi.mehta213@nmiet.edu.in
+214,Yash Nair,Software Engineering,SE,yash.nair214@nmiet.edu.in
+215,Priya Chavan,Databases,BE,priya.chavan215@nmiet.edu.in
+216,Riya Mehta,Computer Science,SE,riya.mehta216@nmiet.edu.in
+217,Pooja Deshmukh,Databases,SE,pooja.deshmukh217@nmiet.edu.in
+218,Aditya Kulkarni,Computer Science,BE,aditya.kulkarni218@nmiet.edu.in
+219,Manish Nair,E&TC,BE,manish.nair219@nmiet.edu.in
+220,Vikram Patel,Databases,BE,vikram.patel220@nmiet.edu.in
+221,Aditya Bhat,AI & Data Science,BE,aditya.bhat221@nmiet.edu.in
+222,Tanvi Rao,Networking,BE,tanvi.rao222@nmiet.edu.in
+223,Manish Rao,Software Engineering,SE,manish.rao223@nmiet.edu.in
+224,Rohan Deshmukh,Databases,TE,rohan.deshmukh224@nmiet.edu.in
+225,Manish Patel,Computer Science,BE,manish.patel225@nmiet.edu.in
+226,Pooja Kulkarni,Information Technology,SE,pooja.kulkarni226@nmiet.edu.in
+227,Dev Kulkarni,E&TC,TE,dev.kulkarni227@nmiet.edu.in
+228,Isha Kulkarni,Networking,SE,isha.kulkarni228@nmiet.edu.in
+229,Amit Sharma,Software Engineering,SE,amit.sharma229@nmiet.edu.in
+230,Kavya Verma,Computer Science,FE,kavya.verma230@nmiet.edu.in
+231,Priya Rao,AI & Data Science,TE,priya.rao231@nmiet.edu.in
+232,Aarav Kulkarni,Computer Science,TE,aarav.kulkarni232@nmiet.edu.in
+233,Amit Malhotra,E&TC,TE,amit.malhotra233@nmiet.edu.in
+234,Siddharth Nair,Software Engineering,SE,siddharth.nair234@nmiet.edu.in
+235,Tanvi Joshi,Electronics,BE,tanvi.joshi235@nmiet.edu.in
+236,Riya Nair,AI & Data Science,FE,riya.nair236@nmiet.edu.in
+237,Rahul Mehta,E&TC,TE,rahul.mehta237@nmiet.edu.in
+238,Isha Sharma,Electronics,SE,isha.sharma238@nmiet.edu.in
+239,Riya Deshmukh,E&TC,BE,riya.deshmukh239@nmiet.edu.in
+240,Aarav Patel,Databases,TE,aarav.patel240@nmiet.edu.in
+241,Kavya Pawar,Computer Science,FE,kavya.pawar241@nmiet.edu.in
+242,Neha Pawar,Databases,SE,neha.pawar242@nmiet.edu.in
+243,Rahul Joshi,Computer Science,TE,rahul.joshi243@nmiet.edu.in
+244,Shruti Pawar,Computer Science,SE,shruti.pawar244@nmiet.edu.in
+245,Siddharth Joshi,Networking,FE,siddharth.joshi245@nmiet.edu.in
+246,Priya Rao,Electronics,TE,priya.rao246@nmiet.edu.in
+247,Shruti Gupta,AI & Data Science,FE,shruti.gupta247@nmiet.edu.in
+248,Kavya Chavan,Information Technology,TE,kavya.chavan248@nmiet.edu.in
+249,Neha Rao,Electronics,FE,neha.rao249@nmiet.edu.in
+250,Vikram Singh,Databases,FE,vikram.singh250@nmiet.edu.in
+251,Tanvi Deshmukh,Software Engineering,SE,tanvi.deshmukh251@nmiet.edu.in
+252,Dev Singh,Databases,SE,dev.singh252@nmiet.edu.in
+253,Rohan Nair,Databases,SE,rohan.nair253@nmiet.edu.in
+254,Pooja Rao,AI & Data Science,BE,pooja.rao254@nmiet.edu.in
+255,Neha Singh,Information Technology,BE,neha.singh255@nmiet.edu.in
+256,Tanvi Verma,Software Engineering,SE,tanvi.verma256@nmiet.edu.in
+257,Manish Joshi,Software Engineering,SE,manish.joshi257@nmiet.edu.in
+258,Neha Nair,AI & Data Science,BE,neha.nair258@nmiet.edu.in
+259,Aditya Chavan,AI & Data Science,TE,aditya.chavan259@nmiet.edu.in
+260,Rohan Joshi,Computer Science,SE,rohan.joshi260@nmiet.edu.in
+261,Dev Pawar,AI & Data Science,FE,dev.pawar261@nmiet.edu.in
+262,Dev Singh,Databases,BE,dev.singh262@nmiet.edu.in
+263,Neha Malhotra,Electronics,SE,neha.malhotra263@nmiet.edu.in
+264,Siddharth Patel,AI & Data Science,SE,siddharth.patel264@nmiet.edu.in
+265,Aarav Bhat,Electronics,SE,aarav.bhat265@nmiet.edu.in
+266,Riya Rao,Software Engineering,FE,riya.rao266@nmiet.edu.in
+267,Kavya Patel,Networking,SE,kavya.patel267@nmiet.edu.in
+268,Yash Pawar,Networking,TE,yash.pawar268@nmiet.edu.in
+269,Isha Pawar,Databases,BE,isha.pawar269@nmiet.edu.in
+270,Shruti Verma,AI & Data Science,SE,shruti.verma270@nmiet.edu.in
+271,Sneha Sharma,Databases,FE,sneha.sharma271@nmiet.edu.in
+272,Vikram Gupta,Software Engineering,SE,vikram.gupta272@nmiet.edu.in
+273,Siddharth Patel,AI & Data Science,BE,siddharth.patel273@nmiet.edu.in
+274,Riya Malhotra,Information Technology,BE,riya.malhotra274@nmiet.edu.in
+275,Sneha Gupta,Databases,FE,sneha.gupta275@nmiet.edu.in
+276,Riya Nair,Databases,TE,riya.nair276@nmiet.edu.in
+277,Rahul Mehta,E&TC,FE,rahul.mehta277@nmiet.edu.in
+278,Amit Malhotra,E&TC,SE,amit.malhotra278@nmiet.edu.in
+279,Yash Joshi,Databases,FE,yash.joshi279@nmiet.edu.in
+280,Tanvi Gupta,E&TC,SE,tanvi.gupta280@nmiet.edu.in
+281,Neha Malhotra,Databases,TE,neha.malhotra281@nmiet.edu.in
+282,Neha Malhotra,AI & Data Science,BE,neha.malhotra282@nmiet.edu.in
+283,Neha Mehta,E&TC,SE,neha.mehta283@nmiet.edu.in
+284,Amit Pawar,Networking,FE,amit.pawar284@nmiet.edu.in
+285,Yash Patel,AI & Data Science,SE,yash.patel285@nmiet.edu.in
+286,Rahul Gupta,Information Technology,BE,rahul.gupta286@nmiet.edu.in
+287,Aarav Verma,Networking,SE,aarav.verma287@nmiet.edu.in
+288,Amit Patel,Electronics,TE,amit.patel288@nmiet.edu.in
+289,Isha Nair,Computer Science,FE,isha.nair289@nmiet.edu.in
+290,Ananya Nair,Networking,TE,ananya.nair290@nmiet.edu.in
+291,Rohan Joshi,Databases,SE,rohan.joshi291@nmiet.edu.in
+292,Rahul Joshi,Databases,FE,rahul.joshi292@nmiet.edu.in
+293,Isha Singh,Information Technology,SE,isha.singh293@nmiet.edu.in
+294,Isha Pawar,AI & Data Science,SE,isha.pawar294@nmiet.edu.in
+295,Priya Gupta,Electronics,TE,priya.gupta295@nmiet.edu.in
+296,Amit Deshmukh,AI & Data Science,FE,amit.deshmukh296@nmiet.edu.in
+297,Aditya Rao,E&TC,TE,aditya.rao297@nmiet.edu.in
+298,Aarav Malhotra,Networking,BE,aarav.malhotra298@nmiet.edu.in
+299,Tanvi Bhat,E&TC,BE,tanvi.bhat299@nmiet.edu.in
+300,Sneha Rao,Networking,BE,sneha.rao300@nmiet.edu.in
+301,Pooja Malhotra,Computer Science,FE,pooja.malhotra301@nmiet.edu.in
+302,Sneha Singh,Electronics,SE,sneha.singh302@nmiet.edu.in
+303,Priya Verma,AI & Data Science,FE,priya.verma303@nmiet.edu.in
+304,Kavya Sharma,AI & Data Science,FE,kavya.sharma304@nmiet.edu.in
+305,Manish Pawar,Electronics,TE,manish.pawar305@nmiet.edu.in
+306,Rohan Sharma,Computer Science,BE,rohan.sharma306@nmiet.edu.in
+307,Isha Verma,Electronics,SE,isha.verma307@nmiet.edu.in
+308,Amit Nair,Information Technology,FE,amit.nair308@nmiet.edu.in
+309,Rohan Bhat,Electronics,TE,rohan.bhat309@nmiet.edu.in
+310,Kavya Singh,Databases,FE,kavya.singh310@nmiet.edu.in
+311,Pooja Pawar,Computer Science,TE,pooja.pawar311@nmiet.edu.in
+312,Shruti Verma,Computer Science,TE,shruti.verma312@nmiet.edu.in
+313,Dev Joshi,Databases,SE,dev.joshi313@nmiet.edu.in
+314,Siddharth Mehta,E&TC,FE,siddharth.mehta314@nmiet.edu.in
+315,Manish Nair,Computer Science,BE,manish.nair315@nmiet.edu.in
+316,Riya Singh,Electronics,BE,riya.singh316@nmiet.edu.in
+317,Riya Pawar,Information Technology,TE,riya.pawar317@nmiet.edu.in
+318,Yash Mehta,Information Technology,SE,yash.mehta318@nmiet.edu.in
+319,Riya Mehta,Networking,BE,riya.mehta319@nmiet.edu.in
+320,Shruti Bhat,AI & Data Science,SE,shruti.bhat320@nmiet.edu.in
+321,Neha Rao,E&TC,FE,neha.rao321@nmiet.edu.in
+322,Aarav Malhotra,Computer Science,SE,aarav.malhotra322@nmiet.edu.in
+323,Riya Gupta,Databases,FE,riya.gupta323@nmiet.edu.in
+324,Dev Kulkarni,Software Engineering,FE,dev.kulkarni324@nmiet.edu.in
+325,Siddharth Nair,Electronics,TE,siddharth.nair325@nmiet.edu.in
+326,Rohan Deshmukh,Electronics,TE,rohan.deshmukh326@nmiet.edu.in
+327,Aarav Patel,Information Technology,TE,aarav.patel327@nmiet.edu.in
+328,Rahul Nair,E&TC,SE,rahul.nair328@nmiet.edu.in
+329,Siddharth Kulkarni,Information Technology,BE,siddharth.kulkarni329@nmiet.edu.in
+330,Shruti Bhat,E&TC,SE,shruti.bhat330@nmiet.edu.in
+331,Shruti Verma,Networking,TE,shruti.verma331@nmiet.edu.in
+332,Amit Bhat,Databases,FE,amit.bhat332@nmiet.edu.in
+333,Yash Deshmukh,Information Technology,FE,yash.deshmukh333@nmiet.edu.in
+334,Siddharth Mehta,Information Technology,TE,siddharth.mehta334@nmiet.edu.in
+335,Rohan Verma,Electronics,FE,rohan.verma335@nmiet.edu.in
+336,Dev Gupta,AI & Data Science,BE,dev.gupta336@nmiet.edu.in
+337,Isha Mehta,Computer Science,TE,isha.mehta337@nmiet.edu.in
+338,Dev Nair,E&TC,TE,dev.nair338@nmiet.edu.in
+339,Pooja Patel,Networking,SE,pooja.patel339@nmiet.edu.in
+340,Kavya Malhotra,Electronics,SE,kavya.malhotra340@nmiet.edu.in
+341,Yash Deshmukh,AI & Data Science,FE,yash.deshmukh341@nmiet.edu.in
+342,Kavya Bhat,E&TC,SE,kavya.bhat342@nmiet.edu.in
+343,Rohan Malhotra,E&TC,BE,rohan.malhotra343@nmiet.edu.in
+344,Yash Verma,Software Engineering,TE,yash.verma344@nmiet.edu.in
+345,Shruti Nair,Electronics,TE,shruti.nair345@nmiet.edu.in
+346,Aditya Bhat,Computer Science,SE,aditya.bhat346@nmiet.edu.in
+347,Siddharth Nair,E&TC,BE,siddharth.nair347@nmiet.edu.in
+348,Rahul Nair,Computer Science,FE,rahul.nair348@nmiet.edu.in
+349,Neha Singh,E&TC,FE,neha.singh349@nmiet.edu.in
+350,Dev Malhotra,E&TC,FE,dev.malhotra350@nmiet.edu.in
+351,Yash Bhat,Electronics,FE,yash.bhat351@nmiet.edu.in
+352,Manish Bhat,Electronics,SE,manish.bhat352@nmiet.edu.in
+353,Dev Rao,Software Engineering,TE,dev.rao353@nmiet.edu.in
+354,Vikram Joshi,Information Technology,BE,vikram.joshi354@nmiet.edu.in
+355,Ananya Deshmukh,AI & Data Science,SE,ananya.deshmukh355@nmiet.edu.in
+356,Vikram Patel,E&TC,FE,vikram.patel356@nmiet.edu.in
+357,Siddharth Joshi,Information Technology,TE,siddharth.joshi357@nmiet.edu.in
+358,Vikram Verma,Electronics,SE,vikram.verma358@nmiet.edu.in
+359,Isha Patel,Electronics,TE,isha.patel359@nmiet.edu.in
+360,Tanvi Malhotra,E&TC,SE,tanvi.malhotra360@nmiet.edu.in
+361,Aarav Malhotra,E&TC,FE,aarav.malhotra361@nmiet.edu.in
+362,Rahul Sharma,Computer Science,BE,rahul.sharma362@nmiet.edu.in
+363,Rahul Verma,Networking,TE,rahul.verma363@nmiet.edu.in
+364,Neha Kulkarni,Software Engineering,FE,neha.kulkarni364@nmiet.edu.in
+365,Amit Mehta,AI & Data Science,FE,amit.mehta365@nmiet.edu.in
+366,Amit Patel,Networking,TE,amit.patel366@nmiet.edu.in
+367,Amit Malhotra,Software Engineering,SE,amit.malhotra367@nmiet.edu.in
+368,Aditya Pawar,Electronics,TE,aditya.pawar368@nmiet.edu.in
+369,Rahul Verma,Information Technology,TE,rahul.verma369@nmiet.edu.in
+370,Amit Malhotra,E&TC,FE,amit.malhotra370@nmiet.edu.in
+371,Shruti Patel,Information Technology,BE,shruti.patel371@nmiet.edu.in
+372,Amit Pawar,AI & Data Science,TE,amit.pawar372@nmiet.edu.in
+373,Kavya Mehta,AI & Data Science,FE,kavya.mehta373@nmiet.edu.in
+374,Rahul Pawar,Computer Science,TE,rahul.pawar374@nmiet.edu.in
+375,Tanvi Chavan,Computer Science,TE,tanvi.chavan375@nmiet.edu.in
+376,Tanvi Malhotra,Databases,BE,tanvi.malhotra376@nmiet.edu.in
+377,Sneha Mehta,Software Engineering,SE,sneha.mehta377@nmiet.edu.in
+378,Shruti Gupta,Computer Science,TE,shruti.gupta378@nmiet.edu.in
+379,Siddharth Pawar,Databases,BE,siddharth.pawar379@nmiet.edu.in
+380,Manish Bhat,Information Technology,SE,manish.bhat380@nmiet.edu.in
+381,Isha Chavan,Computer Science,BE,isha.chavan381@nmiet.edu.in
+382,Ananya Mehta,Networking,TE,ananya.mehta382@nmiet.edu.in
+383,Tanvi Patel,Networking,SE,tanvi.patel383@nmiet.edu.in
+384,Neha Gupta,Computer Science,FE,neha.gupta384@nmiet.edu.in
+385,Riya Bhat,Databases,TE,riya.bhat385@nmiet.edu.in
+386,Shruti Chavan,E&TC,FE,shruti.chavan386@nmiet.edu.in
+387,Siddharth Pawar,AI & Data Science,FE,siddharth.pawar387@nmiet.edu.in
+388,Aditya Chavan,AI & Data Science,BE,aditya.chavan388@nmiet.edu.in
+389,Tanvi Deshmukh,Databases,BE,tanvi.deshmukh389@nmiet.edu.in
+390,Siddharth Rao,Information Technology,TE,siddharth.rao390@nmiet.edu.in
+391,Manish Bhat,Electronics,BE,manish.bhat391@nmiet.edu.in
+392,Kavya Patel,E&TC,BE,kavya.patel392@nmiet.edu.in
+393,Aditya Pawar,Electronics,FE,aditya.pawar393@nmiet.edu.in
+394,Kavya Singh,E&TC,FE,kavya.singh394@nmiet.edu.in
+395,Tanvi Pawar,Information Technology,FE,tanvi.pawar395@nmiet.edu.in
+396,Neha Pawar,E&TC,SE,neha.pawar396@nmiet.edu.in
+397,Pooja Nair,Databases,TE,pooja.nair397@nmiet.edu.in
+398,Rahul Gupta,Databases,BE,rahul.gupta398@nmiet.edu.in
+399,Tanvi Rao,AI & Data Science,BE,tanvi.rao399@nmiet.edu.in
+400,Aditya Rao,Databases,TE,aditya.rao400@nmiet.edu.in
+401,Pooja Verma,Electronics,SE,pooja.verma401@nmiet.edu.in
+402,Aditya Sharma,Computer Science,FE,aditya.sharma402@nmiet.edu.in
+403,Aditya Nair,Networking,BE,aditya.nair403@nmiet.edu.in
+404,Aditya Patel,AI & Data Science,BE,aditya.patel404@nmiet.edu.in
+405,Amit Singh,Databases,SE,amit.singh405@nmiet.edu.in
+406,Amit Joshi,Databases,BE,amit.joshi406@nmiet.edu.in
+407,Rahul Kulkarni,Software Engineering,SE,rahul.kulkarni407@nmiet.edu.in
+408,Pooja Mehta,E&TC,BE,pooja.mehta408@nmiet.edu.in
+409,Sneha Nair,Electronics,BE,sneha.nair409@nmiet.edu.in
+410,Tanvi Mehta,Information Technology,FE,tanvi.mehta410@nmiet.edu.in
+411,Priya Mehta,Networking,TE,priya.mehta411@nmiet.edu.in
+412,Ananya Mehta,Networking,FE,ananya.mehta412@nmiet.edu.in
+413,Aditya Nair,Electronics,BE,aditya.nair413@nmiet.edu.in
+414,Yash Patel,Computer Science,SE,yash.patel414@nmiet.edu.in
+415,Shruti Chavan,Computer Science,TE,shruti.chavan415@nmiet.edu.in
+416,Riya Sharma,Information Technology,FE,riya.sharma416@nmiet.edu.in
+417,Shruti Malhotra,Networking,TE,shruti.malhotra417@nmiet.edu.in
+418,Pooja Kulkarni,Electronics,TE,pooja.kulkarni418@nmiet.edu.in
+419,Isha Sharma,Electronics,TE,isha.sharma419@nmiet.edu.in
+420,Priya Chavan,Networking,SE,priya.chavan420@nmiet.edu.in
+421,Manish Sharma,Electronics,FE,manish.sharma421@nmiet.edu.in
+422,Neha Malhotra,Computer Science,SE,neha.malhotra422@nmiet.edu.in
+423,Yash Patel,Electronics,TE,yash.patel423@nmiet.edu.in
+424,Aditya Mehta,Electronics,TE,aditya.mehta424@nmiet.edu.in
+425,Vikram Sharma,Computer Science,SE,vikram.sharma425@nmiet.edu.in
+426,Manish Nair,AI & Data Science,BE,manish.nair426@nmiet.edu.in
+427,Kavya Bhat,AI & Data Science,TE,kavya.bhat427@nmiet.edu.in
+428,Sneha Malhotra,AI & Data Science,FE,sneha.malhotra428@nmiet.edu.in
+429,Dev Patel,AI & Data Science,SE,dev.patel429@nmiet.edu.in
+430,Shruti Bhat,Databases,BE,shruti.bhat430@nmiet.edu.in
+431,Sneha Chavan,Networking,SE,sneha.chavan431@nmiet.edu.in
+432,Siddharth Mehta,Information Technology,FE,siddharth.mehta432@nmiet.edu.in
+433,Vikram Bhat,Computer Science,FE,vikram.bhat433@nmiet.edu.in
+434,Isha Malhotra,Databases,BE,isha.malhotra434@nmiet.edu.in
+435,Neha Malhotra,Software Engineering,BE,neha.malhotra435@nmiet.edu.in
+436,Rahul Malhotra,Electronics,SE,rahul.malhotra436@nmiet.edu.in
+437,Yash Pawar,Databases,FE,yash.pawar437@nmiet.edu.in
+438,Neha Singh,Networking,BE,neha.singh438@nmiet.edu.in
+439,Dev Joshi,E&TC,FE,dev.joshi439@nmiet.edu.in
+440,Tanvi Chavan,Information Technology,BE,tanvi.chavan440@nmiet.edu.in
+441,Riya Singh,Electronics,TE,riya.singh441@nmiet.edu.in
+442,Vikram Deshmukh,Computer Science,TE,vikram.deshmukh442@nmiet.edu.in
+443,Manish Gupta,Networking,SE,manish.gupta443@nmiet.edu.in
+444,Manish Bhat,Software Engineering,TE,manish.bhat444@nmiet.edu.in
+445,Isha Kulkarni,E&TC,FE,isha.kulkarni445@nmiet.edu.in
+446,Rohan Sharma,Databases,FE,rohan.sharma446@nmiet.edu.in
+447,Yash Patel,Networking,TE,yash.patel447@nmiet.edu.in
+448,Sneha Nair,Electronics,TE,sneha.nair448@nmiet.edu.in
+449,Siddharth Sharma,E&TC,FE,siddharth.sharma449@nmiet.edu.in
+450,Priya Mehta,Software Engineering,FE,priya.mehta450@nmiet.edu.in

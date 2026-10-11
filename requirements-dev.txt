@@ -1,0 +1,5 @@
+# Development and Testing Dependencies for SmartLib
+-r requirements.txt
+pytest>=7.0.0
+pyyaml>=6.0.0
+matplotlib>=3.7.0

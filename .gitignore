@@ -1,0 +1,22 @@
+# Environments
+.venv/
+venv/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing and coverage caches
+.pytest_cache/
+
+# Local configuration and secrets
+.env
+.streamlit/secrets.toml
+
+# Large local archive files
+2.zip
+
+# OS metadata
+.DS_Store
+Thumbs.db

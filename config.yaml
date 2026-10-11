@@ -1,0 +1,24 @@
+# Centralized Configuration for Research Experiments & Reproducibility
+random_seed: 42
+top_k: 5
+
+hybrid_weights:
+  content: 0.6
+  collaborative: 0.4
+
+synthetic_dataset:
+  num_books: 750
+  num_users: 250
+  num_transactions: 4000
+  random_seed: 42
+
+evaluation:
+  split_type: "temporal"
+  test_ratio: 0.2
+  cold_start_threshold: 0
+  sparse_threshold: 5
+
+benchmarks:
+  dataset_sizes: [100, 500, 1000, 5000, 10000, 50000]
+  num_queries: 1000
+  repetitions: 5

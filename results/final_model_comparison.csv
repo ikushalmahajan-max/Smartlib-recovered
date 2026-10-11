@@ -1,0 +1,5 @@
+Model,Total_Test_Users,Eligible_Test_Users,Evaluated_Users,Precision@5,Recall@5,F1@5,NDCG@5
+Rating-Based Baseline,150,150,150,0.004,0.0072,0.003,0.0101
+Content-Only (TF-IDF),150,150,150,0.004,0.0036,0.0023,0.006
+Collaborative-Only (User-User),150,150,150,0.0867,0.1581,0.0875,0.16
+Selected Hybrid (0.0/1.0),150,150,150,0.0867,0.1581,0.0875,0.16

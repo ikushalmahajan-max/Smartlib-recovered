@@ -1,0 +1,751 @@
+book_id,title,author,genre,isbn,rating,publication_year,description
+101,Applied Database Systems (Vol. 2),Sneha Verma,Algorithms,978-013000001,4.7,2023,Academic engineering reference textbook on algorithms and computer science principles.
+102,Handbook of Machine Learning (Vol. 1),Aarav Patel,Algorithms,978-013000002,4.4,2006,Academic engineering reference textbook on algorithms and computer science principles.
+103,Handbook of Computer Networks (Vol. 4),Sneha Malhotra,Software Design,978-013000003,4.8,2018,Academic engineering reference textbook on software design and software engineering principles.
+104,Modern Cloud Computing (Vol. 2),Pooja Kulkarni,Semiconductors,978-013000004,5.0,2008,Academic engineering reference textbook on semiconductors and electronics principles.
+105,Modern VLSI Architecture (Vol. 1),Rohan Gupta,Deep Learning,978-013000005,4.4,2003,Academic engineering reference textbook on deep learning and ai & data science principles.
+106,Handbook of Database Systems (Vol. 1),Amit Joshi,Cyber Security,978-013000006,4.4,2003,Academic engineering reference textbook on cyber security and information technology principles.
+107,Handbook of Database Systems (Vol. 3),Manish Rao,Relational DB,978-013000007,5.0,2022,Academic engineering reference textbook on relational db and databases principles.
+108,Applied Computer Networks (Vol. 3),Rohan Pawar,Algorithms,978-013000008,4.8,2007,Academic engineering reference textbook on algorithms and computer science principles.
+109,Principles of Signal Processing (Vol. 3),Isha Kulkarni,Theory of Computation,978-013000009,4.3,2011,Academic engineering reference textbook on theory of computation and computer science principles.
+110,Applied Robotics (Vol. 1),Riya Chavan,Clean Code,978-013000010,4.7,2005,Academic engineering reference textbook on clean code and software engineering principles.
+111,Fundamentals of Machine Learning (Vol. 3),Tanvi Rao,Agile Architecture,978-013000011,4.3,2021,Academic engineering reference textbook on agile architecture and software engineering principles.
+112,Advanced Cyber Security (Vol. 1),Dev Gupta,Web Technologies,978-013000012,4.3,2008,Academic engineering reference textbook on web technologies and information technology principles.
+113,Handbook of Robotics (Vol. 3),Siddharth Chavan,Operating Systems,978-013000013,4.6,2015,Academic engineering reference textbook on operating systems and computer science principles.
+114,Advanced Database Systems (Vol. 2),Sneha Nair,Query Optimization,978-013000014,3.7,2017,Academic engineering reference textbook on query optimization and databases principles.
+115,Handbook of Machine Learning (Vol. 3),Sneha Verma,Robotics,978-013000015,3.8,2016,Academic engineering reference textbook on robotics and electronics principles.
+116,Modern Algorithms (Vol. 1),Aditya Chavan,Computer Networks,978-013000016,4.3,2005,Academic engineering reference textbook on computer networks and networking principles.
+117,Fundamentals of Machine Learning (Vol. 4),Yash Deshmukh,Relational DB,978-013000017,4.1,2017,Academic engineering reference textbook on relational db and databases principles.
+118,Applied Robotics (Vol. 3),Dev Patel,Electronics,978-013000018,4.6,2009,Academic engineering reference textbook on electronics and e&tc principles.
+119,Fundamentals of Algorithms (Vol. 3),Yash Bhat,Distributed Databases,978-013000019,4.1,2005,Academic engineering reference textbook on distributed databases and databases principles.
+120,Modern Data Structures (Vol. 2),Aditya Kulkarni,Computer Architecture,978-013000020,3.9,2024,Academic engineering reference textbook on computer architecture and computer science principles.
+121,Handbook of VLSI Architecture (Vol. 4),Aarav Patel,AI/ML,978-013000021,5.0,2011,Academic engineering reference textbook on ai/ml and ai & data science principles.
+122,Introduction to Computer Networks (Vol. 1),Rohan Nair,VLSI Design,978-013000022,4.4,2015,Academic engineering reference textbook on vlsi design and electronics principles.
+123,Advanced Data Structures (Vol. 4),Tanvi Verma,Operating Systems,978-013000023,4.5,2008,Academic engineering reference textbook on operating systems and computer science principles.
+124,Handbook of Cloud Computing (Vol. 2),Neha Gupta,Distributed Databases,978-013000024,3.9,2021,Academic engineering reference textbook on distributed databases and databases principles.
+125,Handbook of Signal Processing (Vol. 1),Sneha Rao,DevOps,978-013000025,4.3,2002,Academic engineering reference textbook on devops and information technology principles.
+126,Handbook of Clean Code (Vol. 2),Manish Rao,Web Technologies,978-013000026,4.5,2000,Academic engineering reference textbook on web technologies and information technology principles.
+127,Advanced Deep Learning (Vol. 1),Dev Patel,Algorithms,978-013000027,4.0,2016,Academic engineering reference textbook on algorithms and computer science principles.
+128,Applied Signal Processing (Vol. 2),Tanvi Verma,Clean Code,978-013000028,4.7,2023,Academic engineering reference textbook on clean code and software engineering principles.
+129,Modern Signal Processing (Vol. 4),Siddharth Patel,Wireless Protocols,978-013000029,4.3,2003,Academic engineering reference textbook on wireless protocols and networking principles.
+130,Fundamentals of Machine Learning (Vol. 4),Priya Chavan,NoSQL,978-013000030,4.4,2020,Academic engineering reference textbook on nosql and databases principles.
+131,Fundamentals of Operating Systems (Vol. 3),Ananya Rao,Algorithms,978-013000031,4.3,2006,Academic engineering reference textbook on algorithms and computer science principles.
+132,Advanced Machine Learning (Vol. 2),Vikram Malhotra,Testing,978-013000032,5.0,2007,Academic engineering reference textbook on testing and software engineering principles.
+133,Modern Cyber Security (Vol. 1),Priya Chavan,Theory of Computation,978-013000033,4.5,2017,Academic engineering reference textbook on theory of computation and computer science principles.
+134,Modern Cyber Security (Vol. 2),Isha Gupta,Electronics,978-013000034,4.1,2015,Academic engineering reference textbook on electronics and e&tc principles.
+135,Modern Machine Learning (Vol. 1),Isha Gupta,Wireless Protocols,978-013000035,4.8,2000,Academic engineering reference textbook on wireless protocols and networking principles.
+136,Modern Cloud Computing (Vol. 4),Neha Gupta,NoSQL,978-013000036,4.0,2022,Academic engineering reference textbook on nosql and databases principles.
+137,Advanced Database Systems (Vol. 2),Priya Mehta,Wireless Protocols,978-013000037,4.6,2023,Academic engineering reference textbook on wireless protocols and networking principles.
+138,Introduction to Algorithms (Vol. 4),Yash Singh,Microcontrollers,978-013000038,3.7,2016,Academic engineering reference textbook on microcontrollers and e&tc principles.
+139,Handbook of Deep Learning (Vol. 2),Rohan Mehta,AI/ML,978-013000039,4.0,2002,Academic engineering reference textbook on ai/ml and ai & data science principles.
+140,Introduction to Robotics (Vol. 2),Manish Mehta,Testing,978-013000040,4.6,2001,Academic engineering reference textbook on testing and software engineering principles.
+141,Applied Pattern Recognition (Vol. 3),Vikram Rao,Theory of Computation,978-013000041,4.8,2021,Academic engineering reference textbook on theory of computation and computer science principles.
+142,Principles of Machine Learning (Vol. 2),Neha Malhotra,Cloud Computing,978-013000042,4.6,2010,Academic engineering reference textbook on cloud computing and information technology principles.
+143,Fundamentals of Pattern Recognition (Vol. 1),Rohan Joshi,Algorithms,978-013000043,4.5,2006,Academic engineering reference textbook on algorithms and computer science principles.
+144,Principles of Robotics (Vol. 1),Sneha Kulkarni,VLSI Design,978-013000044,4.4,2009,Academic engineering reference textbook on vlsi design and electronics principles.
+145,Modern Clean Code (Vol. 3),Riya Bhat,Data Mining,978-013000045,3.9,2020,Academic engineering reference textbook on data mining and ai & data science principles.
+146,Applied Deep Learning (Vol. 2),Vikram Patel,Microcontrollers,978-013000046,4.2,2003,Academic engineering reference textbook on microcontrollers and e&tc principles.
+147,Principles of Pattern Recognition (Vol. 2),Dev Rao,Pattern Recognition,978-013000047,4.3,2021,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+148,Principles of Robotics (Vol. 1),Rohan Chavan,Robotics,978-013000048,4.9,2013,Academic engineering reference textbook on robotics and electronics principles.
+149,Introduction to VLSI Architecture (Vol. 2),Vikram Verma,Semiconductors,978-013000049,4.6,2023,Academic engineering reference textbook on semiconductors and electronics principles.
+150,Handbook of Algorithms (Vol. 1),Rohan Singh,IoT,978-013000050,3.8,2022,Academic engineering reference textbook on iot and networking principles.
+151,Modern VLSI Architecture (Vol. 2),Pooja Verma,AI/ML,978-013000051,4.6,2001,Academic engineering reference textbook on ai/ml and ai & data science principles.
+152,Modern Cyber Security (Vol. 1),Kavya Rao,Embedded Systems,978-013000052,4.3,2021,Academic engineering reference textbook on embedded systems and electronics principles.
+153,Principles of Cloud Computing (Vol. 4),Riya Nair,Software Design,978-013000053,4.2,2004,Academic engineering reference textbook on software design and software engineering principles.
+154,Modern Cloud Computing (Vol. 2),Pooja Sharma,Agile Architecture,978-013000054,4.7,2005,Academic engineering reference textbook on agile architecture and software engineering principles.
+155,Modern Data Structures (Vol. 2),Vikram Verma,DevOps,978-013000055,4.9,2022,Academic engineering reference textbook on devops and information technology principles.
+156,Modern Algorithms (Vol. 4),Sneha Rao,Theory of Computation,978-013000056,4.9,2014,Academic engineering reference textbook on theory of computation and computer science principles.
+157,Modern Cloud Computing (Vol. 2),Sneha Sharma,Cyber Security,978-013000057,4.2,2021,Academic engineering reference textbook on cyber security and information technology principles.
+158,Principles of Database Systems (Vol. 1),Vikram Kulkarni,Testing,978-013000058,4.4,2020,Academic engineering reference textbook on testing and software engineering principles.
+159,Introduction to Deep Learning (Vol. 3),Isha Mehta,NoSQL,978-013000059,4.6,2008,Academic engineering reference textbook on nosql and databases principles.
+160,Handbook of Machine Learning (Vol. 3),Dev Gupta,Electronics,978-013000060,4.9,2019,Academic engineering reference textbook on electronics and e&tc principles.
+161,Handbook of Computer Networks (Vol. 3),Priya Nair,Theory of Computation,978-013000061,4.3,2013,Academic engineering reference textbook on theory of computation and computer science principles.
+162,Principles of Machine Learning (Vol. 1),Dev Mehta,Signal Processing,978-013000062,4.4,2010,Academic engineering reference textbook on signal processing and e&tc principles.
+163,Handbook of Database Systems (Vol. 4),Dev Gupta,Computer Architecture,978-013000063,4.1,2022,Academic engineering reference textbook on computer architecture and computer science principles.
+164,Advanced Machine Learning (Vol. 4),Isha Mehta,VLSI Design,978-013000064,4.0,2018,Academic engineering reference textbook on vlsi design and electronics principles.
+165,Handbook of Cyber Security (Vol. 1),Neha Deshmukh,Robotics,978-013000065,4.8,2006,Academic engineering reference textbook on robotics and electronics principles.
+166,Fundamentals of Signal Processing (Vol. 4),Siddharth Joshi,NoSQL,978-013000066,5.0,2015,Academic engineering reference textbook on nosql and databases principles.
+167,Principles of Clean Code (Vol. 3),Rohan Pawar,AI/ML,978-013000067,4.5,2024,Academic engineering reference textbook on ai/ml and ai & data science principles.
+168,Advanced Cloud Computing (Vol. 2),Aditya Sharma,Clean Code,978-013000068,4.9,2001,Academic engineering reference textbook on clean code and software engineering principles.
+169,Handbook of Cyber Security (Vol. 1),Amit Gupta,Testing,978-013000069,4.6,2020,Academic engineering reference textbook on testing and software engineering principles.
+170,Fundamentals of Machine Learning (Vol. 2),Aditya Chavan,Testing,978-013000070,4.2,2022,Academic engineering reference textbook on testing and software engineering principles.
+171,Modern Machine Learning (Vol. 2),Isha Bhat,Electronics,978-013000071,4.6,2022,Academic engineering reference textbook on electronics and e&tc principles.
+172,Handbook of Computer Networks (Vol. 1),Amit Verma,Computer Networks,978-013000072,5.0,2014,Academic engineering reference textbook on computer networks and networking principles.
+173,Handbook of Cyber Security (Vol. 4),Tanvi Malhotra,DevOps,978-013000073,4.5,2005,Academic engineering reference textbook on devops and information technology principles.
+174,Principles of Cloud Computing (Vol. 2),Vikram Bhat,IoT,978-013000074,5.0,2024,Academic engineering reference textbook on iot and networking principles.
+175,Principles of Signal Processing (Vol. 1),Neha Rao,Wireless Protocols,978-013000075,3.5,2008,Academic engineering reference textbook on wireless protocols and networking principles.
+176,Handbook of Deep Learning (Vol. 2),Aditya Rao,Cyber Security,978-013000076,4.8,2012,Academic engineering reference textbook on cyber security and information technology principles.
+177,Introduction to Machine Learning (Vol. 4),Dev Joshi,Deep Learning,978-013000077,4.5,2014,Academic engineering reference textbook on deep learning and ai & data science principles.
+178,Advanced Cyber Security (Vol. 4),Rahul Singh,Relational DB,978-013000078,4.4,2024,Academic engineering reference textbook on relational db and databases principles.
+179,Fundamentals of Algorithms (Vol. 3),Neha Bhat,Communication Systems,978-013000079,4.5,2012,Academic engineering reference textbook on communication systems and e&tc principles.
+180,Fundamentals of Computer Networks (Vol. 3),Pooja Malhotra,Distributed Databases,978-013000080,3.7,2000,Academic engineering reference textbook on distributed databases and databases principles.
+181,Applied Data Structures (Vol. 4),Isha Pawar,NoSQL,978-013000081,4.4,2014,Academic engineering reference textbook on nosql and databases principles.
+182,Fundamentals of Pattern Recognition (Vol. 1),Rohan Chavan,AI/ML,978-013000082,4.6,2013,Academic engineering reference textbook on ai/ml and ai & data science principles.
+183,Advanced Algorithms (Vol. 3),Rahul Kulkarni,Data Mining,978-013000083,5.0,2006,Academic engineering reference textbook on data mining and ai & data science principles.
+184,Principles of Cloud Computing (Vol. 4),Vikram Bhat,Network Security,978-013000084,4.3,2013,Academic engineering reference textbook on network security and networking principles.
+185,Fundamentals of Algorithms (Vol. 1),Kavya Rao,Semiconductors,978-013000085,4.2,2020,Academic engineering reference textbook on semiconductors and electronics principles.
+186,Modern Algorithms (Vol. 2),Siddharth Pawar,Algorithms,978-013000086,4.3,2000,Academic engineering reference textbook on algorithms and computer science principles.
+187,Advanced Signal Processing (Vol. 1),Manish Rao,Deep Learning,978-013000087,4.9,2014,Academic engineering reference textbook on deep learning and ai & data science principles.
+188,Advanced Pattern Recognition (Vol. 1),Isha Deshmukh,Embedded Systems,978-013000088,4.6,2003,Academic engineering reference textbook on embedded systems and electronics principles.
+189,Handbook of Data Structures (Vol. 4),Rahul Nair,Microcontrollers,978-013000089,4.3,2006,Academic engineering reference textbook on microcontrollers and e&tc principles.
+190,Introduction to Operating Systems (Vol. 3),Riya Bhat,Operating Systems,978-013000090,4.7,2003,Academic engineering reference textbook on operating systems and computer science principles.
+191,Handbook of Machine Learning (Vol. 3),Rohan Joshi,Microcontrollers,978-013000091,4.5,2020,Academic engineering reference textbook on microcontrollers and e&tc principles.
+192,Modern Machine Learning (Vol. 4),Ananya Gupta,Web Technologies,978-013000092,4.9,2011,Academic engineering reference textbook on web technologies and information technology principles.
+193,Fundamentals of Embedded Systems (Vol. 3),Riya Bhat,Wireless Protocols,978-013000093,4.2,2017,Academic engineering reference textbook on wireless protocols and networking principles.
+194,Fundamentals of Cyber Security (Vol. 3),Dev Pawar,IoT,978-013000094,4.4,2007,Academic engineering reference textbook on iot and networking principles.
+195,Fundamentals of Computer Networks (Vol. 4),Manish Mehta,Computer Architecture,978-013000095,4.3,2021,Academic engineering reference textbook on computer architecture and computer science principles.
+196,Introduction to Signal Processing (Vol. 3),Isha Malhotra,NoSQL,978-013000096,3.9,2006,Academic engineering reference textbook on nosql and databases principles.
+197,Principles of Database Systems (Vol. 3),Tanvi Sharma,Cyber Security,978-013000097,4.6,2016,Academic engineering reference textbook on cyber security and information technology principles.
+198,Advanced Operating Systems (Vol. 4),Shruti Joshi,Software Design,978-013000098,4.6,2024,Academic engineering reference textbook on software design and software engineering principles.
+199,Applied Operating Systems (Vol. 4),Amit Bhat,Testing,978-013000099,4.5,2000,Academic engineering reference textbook on testing and software engineering principles.
+200,Advanced Machine Learning (Vol. 2),Neha Chavan,Computer Architecture,978-013000100,4.4,2018,Academic engineering reference textbook on computer architecture and computer science principles.
+201,Handbook of Clean Code (Vol. 3),Pooja Nair,DevOps,978-013000101,3.9,2017,Academic engineering reference textbook on devops and information technology principles.
+202,Applied Signal Processing (Vol. 3),Neha Deshmukh,Cyber Security,978-013000102,4.3,2007,Academic engineering reference textbook on cyber security and information technology principles.
+203,Principles of Deep Learning (Vol. 2),Siddharth Rao,Operating Systems,978-013000103,4.4,2023,Academic engineering reference textbook on operating systems and computer science principles.
+204,Applied Pattern Recognition (Vol. 3),Ananya Pawar,Network Security,978-013000104,4.2,2006,Academic engineering reference textbook on network security and networking principles.
+205,Principles of Embedded Systems (Vol. 3),Aarav Nair,VLSI Design,978-013000105,4.4,2017,Academic engineering reference textbook on vlsi design and electronics principles.
+206,Introduction to Algorithms (Vol. 3),Aditya Chavan,Pattern Recognition,978-013000106,4.7,2024,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+207,Modern Algorithms (Vol. 3),Shruti Malhotra,Computer Networks,978-013000107,5.0,2014,Academic engineering reference textbook on computer networks and networking principles.
+208,Introduction to Database Systems (Vol. 4),Ananya Pawar,Cloud Computing,978-013000108,4.6,2002,Academic engineering reference textbook on cloud computing and information technology principles.
+209,Introduction to Pattern Recognition (Vol. 1),Aditya Verma,Query Optimization,978-013000109,4.6,2018,Academic engineering reference textbook on query optimization and databases principles.
+210,Advanced Deep Learning (Vol. 4),Riya Mehta,Semiconductors,978-013000110,4.5,2019,Academic engineering reference textbook on semiconductors and electronics principles.
+211,Fundamentals of Robotics (Vol. 4),Neha Pawar,Testing,978-013000111,3.7,2018,Academic engineering reference textbook on testing and software engineering principles.
+212,Handbook of Pattern Recognition (Vol. 1),Riya Nair,NoSQL,978-013000112,4.5,2003,Academic engineering reference textbook on nosql and databases principles.
+213,Principles of Data Structures (Vol. 1),Isha Rao,Agile Architecture,978-013000113,4.5,2005,Academic engineering reference textbook on agile architecture and software engineering principles.
+214,Introduction to Machine Learning (Vol. 4),Riya Malhotra,Operating Systems,978-013000114,5.0,2009,Academic engineering reference textbook on operating systems and computer science principles.
+215,Principles of Operating Systems (Vol. 3),Amit Patel,Signal Processing,978-013000115,4.4,2021,Academic engineering reference textbook on signal processing and e&tc principles.
+216,Modern Cloud Computing (Vol. 2),Pooja Patel,Clean Code,978-013000116,4.6,2017,Academic engineering reference textbook on clean code and software engineering principles.
+217,Principles of Cyber Security (Vol. 2),Rohan Sharma,Agile Architecture,978-013000117,4.5,2005,Academic engineering reference textbook on agile architecture and software engineering principles.
+218,Fundamentals of Deep Learning (Vol. 4),Neha Nair,Embedded Systems,978-013000118,4.0,2012,Academic engineering reference textbook on embedded systems and electronics principles.
+219,Fundamentals of Deep Learning (Vol. 1),Pooja Nair,Robotics,978-013000119,5.0,2010,Academic engineering reference textbook on robotics and electronics principles.
+220,Introduction to Computer Networks (Vol. 1),Vikram Mehta,Semiconductors,978-013000120,4.8,2001,Academic engineering reference textbook on semiconductors and electronics principles.
+221,Handbook of Data Structures (Vol. 4),Vikram Verma,Data Mining,978-013000121,4.8,2018,Academic engineering reference textbook on data mining and ai & data science principles.
+222,Introduction to Signal Processing (Vol. 3),Pooja Kulkarni,Query Optimization,978-013000122,4.1,2010,Academic engineering reference textbook on query optimization and databases principles.
+223,Principles of Machine Learning (Vol. 4),Neha Chavan,Operating Systems,978-013000123,5.0,2012,Academic engineering reference textbook on operating systems and computer science principles.
+224,Introduction to VLSI Architecture (Vol. 3),Dev Patel,Communication Systems,978-013000124,3.9,2024,Academic engineering reference textbook on communication systems and e&tc principles.
+225,Applied Cyber Security (Vol. 4),Pooja Sharma,Relational DB,978-013000125,4.7,2006,Academic engineering reference textbook on relational db and databases principles.
+226,Applied Signal Processing (Vol. 1),Siddharth Deshmukh,DevOps,978-013000126,5.0,2017,Academic engineering reference textbook on devops and information technology principles.
+227,Fundamentals of Robotics (Vol. 4),Ananya Sharma,Pattern Recognition,978-013000127,4.1,2020,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+228,Principles of Clean Code (Vol. 1),Tanvi Gupta,Agile Architecture,978-013000128,4.3,2002,Academic engineering reference textbook on agile architecture and software engineering principles.
+229,Fundamentals of Deep Learning (Vol. 2),Shruti Singh,Software Design,978-013000129,4.5,2022,Academic engineering reference textbook on software design and software engineering principles.
+230,Fundamentals of Cyber Security (Vol. 4),Shruti Rao,Embedded Systems,978-013000130,4.3,2014,Academic engineering reference textbook on embedded systems and electronics principles.
+231,Advanced Robotics (Vol. 2),Rohan Deshmukh,Data Mining,978-013000131,3.9,2024,Academic engineering reference textbook on data mining and ai & data science principles.
+232,Modern Clean Code (Vol. 3),Aarav Deshmukh,NoSQL,978-013000132,4.5,2023,Academic engineering reference textbook on nosql and databases principles.
+233,Modern Embedded Systems (Vol. 4),Tanvi Malhotra,Robotics,978-013000133,4.1,2011,Academic engineering reference textbook on robotics and electronics principles.
+234,Fundamentals of Robotics (Vol. 3),Siddharth Nair,DevOps,978-013000134,4.7,2007,Academic engineering reference textbook on devops and information technology principles.
+235,Modern Cloud Computing (Vol. 4),Priya Kulkarni,Distributed Databases,978-013000135,4.1,2023,Academic engineering reference textbook on distributed databases and databases principles.
+236,Fundamentals of Data Structures (Vol. 2),Shruti Sharma,IoT,978-013000136,5.0,2004,Academic engineering reference textbook on iot and networking principles.
+237,Modern Cyber Security (Vol. 4),Ananya Joshi,Web Technologies,978-013000137,4.2,2014,Academic engineering reference textbook on web technologies and information technology principles.
+238,Fundamentals of Cyber Security (Vol. 2),Rohan Malhotra,Signal Processing,978-013000138,4.4,2008,Academic engineering reference textbook on signal processing and e&tc principles.
+239,Applied Deep Learning (Vol. 3),Tanvi Gupta,DevOps,978-013000139,4.8,2010,Academic engineering reference textbook on devops and information technology principles.
+240,Handbook of Deep Learning (Vol. 2),Neha Rao,Computer Networks,978-013000140,4.0,2023,Academic engineering reference textbook on computer networks and networking principles.
+241,Introduction to Cloud Computing (Vol. 1),Amit Verma,Theory of Computation,978-013000141,4.6,2022,Academic engineering reference textbook on theory of computation and computer science principles.
+242,Introduction to VLSI Architecture (Vol. 1),Neha Kulkarni,Semiconductors,978-013000142,5.0,2011,Academic engineering reference textbook on semiconductors and electronics principles.
+243,Advanced Clean Code (Vol. 4),Manish Chavan,Distributed Databases,978-013000143,3.9,2005,Academic engineering reference textbook on distributed databases and databases principles.
+244,Introduction to Pattern Recognition (Vol. 4),Riya Chavan,Deep Learning,978-013000144,4.6,2007,Academic engineering reference textbook on deep learning and ai & data science principles.
+245,Advanced Signal Processing (Vol. 3),Amit Deshmukh,Wireless Protocols,978-013000145,4.6,2021,Academic engineering reference textbook on wireless protocols and networking principles.
+246,Principles of Data Structures (Vol. 2),Rohan Malhotra,Communication Systems,978-013000146,4.8,2011,Academic engineering reference textbook on communication systems and e&tc principles.
+247,Applied Database Systems (Vol. 4),Neha Rao,Robotics,978-013000147,4.0,2012,Academic engineering reference textbook on robotics and electronics principles.
+248,Advanced Machine Learning (Vol. 3),Manish Deshmukh,Computer Networks,978-013000148,4.0,2022,Academic engineering reference textbook on computer networks and networking principles.
+249,Modern Data Structures (Vol. 4),Vikram Sharma,Semiconductors,978-013000149,4.7,2018,Academic engineering reference textbook on semiconductors and electronics principles.
+250,Modern Robotics (Vol. 3),Sneha Mehta,Communication Systems,978-013000150,4.6,2011,Academic engineering reference textbook on communication systems and e&tc principles.
+251,Handbook of Database Systems (Vol. 2),Ananya Singh,Agile Architecture,978-013000151,4.6,2020,Academic engineering reference textbook on agile architecture and software engineering principles.
+252,Modern Signal Processing (Vol. 1),Manish Kulkarni,Microcontrollers,978-013000152,4.6,2023,Academic engineering reference textbook on microcontrollers and e&tc principles.
+253,Principles of VLSI Architecture (Vol. 4),Isha Rao,AI/ML,978-013000153,4.2,2004,Academic engineering reference textbook on ai/ml and ai & data science principles.
+254,Modern Embedded Systems (Vol. 3),Shruti Bhat,Cyber Security,978-013000154,4.6,2009,Academic engineering reference textbook on cyber security and information technology principles.
+255,Fundamentals of Deep Learning (Vol. 2),Sneha Pawar,Web Technologies,978-013000155,4.6,2021,Academic engineering reference textbook on web technologies and information technology principles.
+256,Introduction to Cloud Computing (Vol. 4),Aarav Deshmukh,NoSQL,978-013000156,4.2,2017,Academic engineering reference textbook on nosql and databases principles.
+257,Principles of Data Structures (Vol. 3),Manish Gupta,Theory of Computation,978-013000157,5.0,2020,Academic engineering reference textbook on theory of computation and computer science principles.
+258,Applied Computer Networks (Vol. 4),Aarav Mehta,Web Technologies,978-013000158,4.7,2017,Academic engineering reference textbook on web technologies and information technology principles.
+259,Applied Deep Learning (Vol. 4),Neha Chavan,Cloud Computing,978-013000159,4.0,2013,Academic engineering reference textbook on cloud computing and information technology principles.
+260,Introduction to Algorithms (Vol. 3),Shruti Patel,Operating Systems,978-013000160,4.8,2003,Academic engineering reference textbook on operating systems and computer science principles.
+261,Fundamentals of Signal Processing (Vol. 3),Tanvi Gupta,Agile Architecture,978-013000161,4.1,2018,Academic engineering reference textbook on agile architecture and software engineering principles.
+262,Applied Deep Learning (Vol. 4),Riya Gupta,Data Mining,978-013000162,4.8,2008,Academic engineering reference textbook on data mining and ai & data science principles.
+263,Advanced Signal Processing (Vol. 4),Sneha Pawar,Microcontrollers,978-013000163,5.0,2011,Academic engineering reference textbook on microcontrollers and e&tc principles.
+264,Handbook of Robotics (Vol. 3),Priya Gupta,Computer Architecture,978-013000164,4.2,2008,Academic engineering reference textbook on computer architecture and computer science principles.
+265,Modern Cyber Security (Vol. 4),Rohan Chavan,Software Design,978-013000165,4.9,2006,Academic engineering reference textbook on software design and software engineering principles.
+266,Modern VLSI Architecture (Vol. 2),Aditya Bhat,Electronics,978-013000166,4.7,2018,Academic engineering reference textbook on electronics and e&tc principles.
+267,Modern Cloud Computing (Vol. 2),Manish Rao,Software Design,978-013000167,4.8,2007,Academic engineering reference textbook on software design and software engineering principles.
+268,Modern Robotics (Vol. 1),Vikram Pawar,Cloud Computing,978-013000168,5.0,2004,Academic engineering reference textbook on cloud computing and information technology principles.
+269,Modern Embedded Systems (Vol. 1),Aarav Verma,Pattern Recognition,978-013000169,4.4,2000,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+270,Handbook of VLSI Architecture (Vol. 1),Isha Deshmukh,Cloud Computing,978-013000170,4.2,2001,Academic engineering reference textbook on cloud computing and information technology principles.
+271,Handbook of Deep Learning (Vol. 1),Shruti Malhotra,Data Mining,978-013000171,4.1,2024,Academic engineering reference textbook on data mining and ai & data science principles.
+272,Fundamentals of Clean Code (Vol. 2),Riya Sharma,Web Technologies,978-013000172,4.2,2023,Academic engineering reference textbook on web technologies and information technology principles.
+273,Applied Algorithms (Vol. 1),Shruti Pawar,Robotics,978-013000173,4.5,2012,Academic engineering reference textbook on robotics and electronics principles.
+274,Fundamentals of Operating Systems (Vol. 4),Rohan Singh,Relational DB,978-013000174,4.6,2002,Academic engineering reference textbook on relational db and databases principles.
+275,Introduction to Embedded Systems (Vol. 3),Riya Chavan,Cloud Computing,978-013000175,4.6,2018,Academic engineering reference textbook on cloud computing and information technology principles.
+276,Handbook of Clean Code (Vol. 3),Amit Joshi,DevOps,978-013000176,4.8,2019,Academic engineering reference textbook on devops and information technology principles.
+277,Modern Operating Systems (Vol. 1),Tanvi Nair,Relational DB,978-013000177,4.5,2006,Academic engineering reference textbook on relational db and databases principles.
+278,Advanced Machine Learning (Vol. 3),Amit Gupta,Query Optimization,978-013000178,5.0,2013,Academic engineering reference textbook on query optimization and databases principles.
+279,Fundamentals of VLSI Architecture (Vol. 3),Kavya Verma,Computer Architecture,978-013000179,4.4,2021,Academic engineering reference textbook on computer architecture and computer science principles.
+280,Introduction to Cyber Security (Vol. 1),Rohan Gupta,Computer Networks,978-013000180,5.0,2003,Academic engineering reference textbook on computer networks and networking principles.
+281,Handbook of Algorithms (Vol. 3),Ananya Gupta,Cloud Computing,978-013000181,4.8,2011,Academic engineering reference textbook on cloud computing and information technology principles.
+282,Principles of Pattern Recognition (Vol. 3),Kavya Patel,Relational DB,978-013000182,4.2,2018,Academic engineering reference textbook on relational db and databases principles.
+283,Applied Signal Processing (Vol. 2),Ananya Kulkarni,Agile Architecture,978-013000183,4.1,2017,Academic engineering reference textbook on agile architecture and software engineering principles.
+284,Modern Database Systems (Vol. 2),Pooja Pawar,Web Technologies,978-013000184,4.7,2017,Academic engineering reference textbook on web technologies and information technology principles.
+285,Introduction to Embedded Systems (Vol. 3),Neha Singh,Microcontrollers,978-013000185,4.4,2010,Academic engineering reference textbook on microcontrollers and e&tc principles.
+286,Advanced Cyber Security (Vol. 2),Manish Chavan,Web Technologies,978-013000186,4.8,2012,Academic engineering reference textbook on web technologies and information technology principles.
+287,Applied Data Structures (Vol. 1),Rohan Nair,Operating Systems,978-013000187,4.7,2016,Academic engineering reference textbook on operating systems and computer science principles.
+288,Fundamentals of Signal Processing (Vol. 3),Isha Kulkarni,Testing,978-013000188,4.5,2009,Academic engineering reference textbook on testing and software engineering principles.
+289,Introduction to Embedded Systems (Vol. 2),Riya Sharma,Web Technologies,978-013000189,4.2,2021,Academic engineering reference textbook on web technologies and information technology principles.
+290,Fundamentals of Data Structures (Vol. 4),Shruti Mehta,Computer Architecture,978-013000190,3.9,2014,Academic engineering reference textbook on computer architecture and computer science principles.
+291,Advanced Cloud Computing (Vol. 1),Kavya Gupta,NoSQL,978-013000191,4.3,2003,Academic engineering reference textbook on nosql and databases principles.
+292,Handbook of Data Structures (Vol. 3),Priya Rao,Robotics,978-013000192,4.8,2012,Academic engineering reference textbook on robotics and electronics principles.
+293,Advanced Database Systems (Vol. 2),Aditya Bhat,Electronics,978-013000193,4.6,2008,Academic engineering reference textbook on electronics and e&tc principles.
+294,Introduction to Algorithms (Vol. 4),Pooja Verma,Embedded Systems,978-013000194,4.0,2004,Academic engineering reference textbook on embedded systems and electronics principles.
+295,Handbook of Clean Code (Vol. 3),Rohan Gupta,Distributed Databases,978-013000195,4.6,2023,Academic engineering reference textbook on distributed databases and databases principles.
+296,Introduction to Signal Processing (Vol. 1),Dev Mehta,Communication Systems,978-013000196,4.7,2013,Academic engineering reference textbook on communication systems and e&tc principles.
+297,Principles of Deep Learning (Vol. 4),Aarav Kulkarni,Query Optimization,978-013000197,4.1,2005,Academic engineering reference textbook on query optimization and databases principles.
+298,Introduction to Machine Learning (Vol. 1),Sneha Gupta,Network Security,978-013000198,4.6,2018,Academic engineering reference textbook on network security and networking principles.
+299,Fundamentals of Cyber Security (Vol. 3),Dev Rao,Relational DB,978-013000199,4.5,2010,Academic engineering reference textbook on relational db and databases principles.
+300,Handbook of Data Structures (Vol. 1),Yash Joshi,AI/ML,978-013000200,4.0,2006,Academic engineering reference textbook on ai/ml and ai & data science principles.
+301,Applied Cyber Security (Vol. 2),Sneha Patel,Cyber Security,978-013000201,4.6,2004,Academic engineering reference textbook on cyber security and information technology principles.
+302,Advanced Pattern Recognition (Vol. 2),Rohan Verma,VLSI Design,978-013000202,4.7,2024,Academic engineering reference textbook on vlsi design and electronics principles.
+303,Modern Pattern Recognition (Vol. 4),Manish Chavan,IoT,978-013000203,4.9,2020,Academic engineering reference textbook on iot and networking principles.
+304,Advanced Signal Processing (Vol. 1),Shruti Malhotra,Cyber Security,978-013000204,4.9,2020,Academic engineering reference textbook on cyber security and information technology principles.
+305,Handbook of Algorithms (Vol. 3),Yash Patel,Embedded Systems,978-013000205,3.9,2009,Academic engineering reference textbook on embedded systems and electronics principles.
+306,Introduction to Algorithms (Vol. 3),Neha Patel,IoT,978-013000206,4.1,2020,Academic engineering reference textbook on iot and networking principles.
+307,Fundamentals of Pattern Recognition (Vol. 1),Amit Singh,Theory of Computation,978-013000207,4.7,2018,Academic engineering reference textbook on theory of computation and computer science principles.
+308,Handbook of Signal Processing (Vol. 2),Priya Malhotra,Clean Code,978-013000208,4.7,2003,Academic engineering reference textbook on clean code and software engineering principles.
+309,Handbook of Data Structures (Vol. 2),Priya Rao,Web Technologies,978-013000209,4.7,2022,Academic engineering reference textbook on web technologies and information technology principles.
+310,Handbook of Clean Code (Vol. 2),Kavya Kulkarni,IoT,978-013000210,5.0,2009,Academic engineering reference textbook on iot and networking principles.
+311,Modern VLSI Architecture (Vol. 1),Dev Patel,Query Optimization,978-013000211,4.7,2010,Academic engineering reference textbook on query optimization and databases principles.
+312,Principles of Database Systems (Vol. 2),Dev Patel,Theory of Computation,978-013000212,5.0,2018,Academic engineering reference textbook on theory of computation and computer science principles.
+313,Principles of Data Structures (Vol. 4),Aditya Mehta,Pattern Recognition,978-013000213,4.9,2022,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+314,Handbook of Machine Learning (Vol. 3),Aditya Chavan,Computer Architecture,978-013000214,4.8,2022,Academic engineering reference textbook on computer architecture and computer science principles.
+315,Handbook of VLSI Architecture (Vol. 1),Kavya Deshmukh,Theory of Computation,978-013000215,4.4,2005,Academic engineering reference textbook on theory of computation and computer science principles.
+316,Modern Signal Processing (Vol. 2),Sneha Verma,Clean Code,978-013000216,4.8,2004,Academic engineering reference textbook on clean code and software engineering principles.
+317,Modern Cloud Computing (Vol. 1),Yash Bhat,Computer Architecture,978-013000217,4.2,2017,Academic engineering reference textbook on computer architecture and computer science principles.
+318,Modern Pattern Recognition (Vol. 2),Riya Gupta,Microcontrollers,978-013000218,4.4,2004,Academic engineering reference textbook on microcontrollers and e&tc principles.
+319,Modern Operating Systems (Vol. 2),Amit Sharma,Deep Learning,978-013000219,4.3,2013,Academic engineering reference textbook on deep learning and ai & data science principles.
+320,Fundamentals of Pattern Recognition (Vol. 3),Amit Rao,Cloud Computing,978-013000220,4.5,2017,Academic engineering reference textbook on cloud computing and information technology principles.
+321,Modern Cloud Computing (Vol. 4),Siddharth Kulkarni,Clean Code,978-013000221,5.0,2021,Academic engineering reference textbook on clean code and software engineering principles.
+322,Modern Database Systems (Vol. 4),Yash Joshi,IoT,978-013000222,3.8,2013,Academic engineering reference textbook on iot and networking principles.
+323,Modern Pattern Recognition (Vol. 2),Vikram Sharma,Deep Learning,978-013000223,4.8,2020,Academic engineering reference textbook on deep learning and ai & data science principles.
+324,Handbook of Robotics (Vol. 1),Yash Pawar,Network Security,978-013000224,3.9,2003,Academic engineering reference textbook on network security and networking principles.
+325,Modern Embedded Systems (Vol. 3),Amit Singh,Semiconductors,978-013000225,4.3,2016,Academic engineering reference textbook on semiconductors and electronics principles.
+326,Introduction to Robotics (Vol. 2),Amit Singh,Data Mining,978-013000226,4.9,2011,Academic engineering reference textbook on data mining and ai & data science principles.
+327,Introduction to Machine Learning (Vol. 3),Sneha Gupta,Communication Systems,978-013000227,4.5,2002,Academic engineering reference textbook on communication systems and e&tc principles.
+328,Introduction to VLSI Architecture (Vol. 1),Dev Bhat,Cloud Computing,978-013000228,4.1,2004,Academic engineering reference textbook on cloud computing and information technology principles.
+329,Principles of Robotics (Vol. 4),Aditya Bhat,AI/ML,978-013000229,4.2,2022,Academic engineering reference textbook on ai/ml and ai & data science principles.
+330,Handbook of Algorithms (Vol. 1),Aarav Deshmukh,IoT,978-013000230,4.8,2006,Academic engineering reference textbook on iot and networking principles.
+331,Introduction to Cloud Computing (Vol. 3),Sneha Deshmukh,Data Mining,978-013000231,4.2,2003,Academic engineering reference textbook on data mining and ai & data science principles.
+332,Fundamentals of Data Structures (Vol. 4),Rohan Patel,Signal Processing,978-013000232,4.6,2015,Academic engineering reference textbook on signal processing and e&tc principles.
+333,Applied Embedded Systems (Vol. 3),Pooja Sharma,Signal Processing,978-013000233,4.5,2019,Academic engineering reference textbook on signal processing and e&tc principles.
+334,Handbook of Machine Learning (Vol. 2),Rohan Joshi,Cloud Computing,978-013000234,4.2,2011,Academic engineering reference textbook on cloud computing and information technology principles.
+335,Fundamentals of Cyber Security (Vol. 4),Priya Chavan,Algorithms,978-013000235,5.0,2012,Academic engineering reference textbook on algorithms and computer science principles.
+336,Applied Algorithms (Vol. 3),Rohan Kulkarni,Cyber Security,978-013000236,4.8,2007,Academic engineering reference textbook on cyber security and information technology principles.
+337,Advanced Algorithms (Vol. 3),Tanvi Kulkarni,Computer Architecture,978-013000237,3.7,2020,Academic engineering reference textbook on computer architecture and computer science principles.
+338,Applied Signal Processing (Vol. 2),Aditya Patel,Data Mining,978-013000238,4.6,2022,Academic engineering reference textbook on data mining and ai & data science principles.
+339,Principles of Computer Networks (Vol. 1),Siddharth Singh,Computer Networks,978-013000239,4.2,2001,Academic engineering reference textbook on computer networks and networking principles.
+340,Handbook of Machine Learning (Vol. 4),Vikram Sharma,Cyber Security,978-013000240,4.8,2024,Academic engineering reference textbook on cyber security and information technology principles.
+341,Principles of Cyber Security (Vol. 1),Dev Deshmukh,Clean Code,978-013000241,4.2,2003,Academic engineering reference textbook on clean code and software engineering principles.
+342,Fundamentals of Operating Systems (Vol. 4),Rahul Kulkarni,DevOps,978-013000242,4.5,2005,Academic engineering reference textbook on devops and information technology principles.
+343,Principles of Robotics (Vol. 3),Rohan Nair,IoT,978-013000243,4.7,2013,Academic engineering reference textbook on iot and networking principles.
+344,Handbook of Cyber Security (Vol. 2),Tanvi Deshmukh,Theory of Computation,978-013000244,4.8,2010,Academic engineering reference textbook on theory of computation and computer science principles.
+345,Principles of Data Structures (Vol. 3),Neha Malhotra,Algorithms,978-013000245,4.0,2019,Academic engineering reference textbook on algorithms and computer science principles.
+346,Applied Signal Processing (Vol. 3),Amit Sharma,Distributed Databases,978-013000246,4.4,2023,Academic engineering reference textbook on distributed databases and databases principles.
+347,Principles of Data Structures (Vol. 1),Rohan Chavan,DevOps,978-013000247,4.3,2020,Academic engineering reference textbook on devops and information technology principles.
+348,Handbook of Cloud Computing (Vol. 2),Aarav Verma,NoSQL,978-013000248,4.2,2019,Academic engineering reference textbook on nosql and databases principles.
+349,Advanced Deep Learning (Vol. 2),Kavya Kulkarni,Computer Networks,978-013000249,5.0,2012,Academic engineering reference textbook on computer networks and networking principles.
+350,Applied Signal Processing (Vol. 3),Kavya Malhotra,Signal Processing,978-013000250,4.7,2024,Academic engineering reference textbook on signal processing and e&tc principles.
+351,Handbook of VLSI Architecture (Vol. 4),Dev Chavan,Operating Systems,978-013000251,4.0,2008,Academic engineering reference textbook on operating systems and computer science principles.
+352,Introduction to Operating Systems (Vol. 2),Shruti Joshi,Software Design,978-013000252,4.9,2012,Academic engineering reference textbook on software design and software engineering principles.
+353,Modern Database Systems (Vol. 4),Siddharth Mehta,Computer Architecture,978-013000253,5.0,2009,Academic engineering reference textbook on computer architecture and computer science principles.
+354,Introduction to Embedded Systems (Vol. 1),Amit Verma,Wireless Protocols,978-013000254,4.9,2022,Academic engineering reference textbook on wireless protocols and networking principles.
+355,Modern Data Structures (Vol. 3),Kavya Nair,Computer Networks,978-013000255,3.9,2002,Academic engineering reference textbook on computer networks and networking principles.
+356,Modern Embedded Systems (Vol. 2),Kavya Joshi,Embedded Systems,978-013000256,4.3,2007,Academic engineering reference textbook on embedded systems and electronics principles.
+357,Modern Embedded Systems (Vol. 2),Shruti Sharma,Operating Systems,978-013000257,5.0,2011,Academic engineering reference textbook on operating systems and computer science principles.
+358,Modern Clean Code (Vol. 2),Riya Singh,DevOps,978-013000258,4.2,2002,Academic engineering reference textbook on devops and information technology principles.
+359,Fundamentals of Operating Systems (Vol. 4),Yash Gupta,Computer Architecture,978-013000259,4.7,2024,Academic engineering reference textbook on computer architecture and computer science principles.
+360,Advanced VLSI Architecture (Vol. 1),Amit Malhotra,Relational DB,978-013000260,4.8,2021,Academic engineering reference textbook on relational db and databases principles.
+361,Modern Cloud Computing (Vol. 2),Aditya Gupta,Cloud Computing,978-013000261,4.1,2016,Academic engineering reference textbook on cloud computing and information technology principles.
+362,Handbook of Embedded Systems (Vol. 3),Isha Verma,Electronics,978-013000262,4.5,2010,Academic engineering reference textbook on electronics and e&tc principles.
+363,Handbook of Robotics (Vol. 3),Rohan Deshmukh,Clean Code,978-013000263,3.2,2006,Academic engineering reference textbook on clean code and software engineering principles.
+364,Applied Database Systems (Vol. 1),Yash Chavan,VLSI Design,978-013000264,4.1,2005,Academic engineering reference textbook on vlsi design and electronics principles.
+365,Applied Pattern Recognition (Vol. 3),Manish Sharma,Deep Learning,978-013000265,4.4,2000,Academic engineering reference textbook on deep learning and ai & data science principles.
+366,Applied Cloud Computing (Vol. 3),Siddharth Bhat,Algorithms,978-013000266,4.0,2018,Academic engineering reference textbook on algorithms and computer science principles.
+367,Fundamentals of Robotics (Vol. 3),Neha Malhotra,Relational DB,978-013000267,5.0,2007,Academic engineering reference textbook on relational db and databases principles.
+368,Fundamentals of Deep Learning (Vol. 1),Isha Malhotra,NoSQL,978-013000268,3.9,2013,Academic engineering reference textbook on nosql and databases principles.
+369,Advanced VLSI Architecture (Vol. 2),Dev Pawar,IoT,978-013000269,4.3,2022,Academic engineering reference textbook on iot and networking principles.
+370,Fundamentals of Embedded Systems (Vol. 3),Yash Joshi,Cyber Security,978-013000270,4.6,2003,Academic engineering reference textbook on cyber security and information technology principles.
+371,Fundamentals of Deep Learning (Vol. 3),Amit Rao,Cloud Computing,978-013000271,5.0,2004,Academic engineering reference textbook on cloud computing and information technology principles.
+372,Principles of Machine Learning (Vol. 4),Sneha Pawar,Algorithms,978-013000272,3.9,2005,Academic engineering reference textbook on algorithms and computer science principles.
+373,Advanced Cloud Computing (Vol. 2),Shruti Joshi,Cyber Security,978-013000273,5.0,2014,Academic engineering reference textbook on cyber security and information technology principles.
+374,Fundamentals of Algorithms (Vol. 1),Rahul Joshi,Network Security,978-013000274,4.5,2014,Academic engineering reference textbook on network security and networking principles.
+375,Handbook of VLSI Architecture (Vol. 1),Priya Deshmukh,Agile Architecture,978-013000275,4.1,2015,Academic engineering reference textbook on agile architecture and software engineering principles.
+376,Handbook of Algorithms (Vol. 1),Pooja Verma,Network Security,978-013000276,4.7,2008,Academic engineering reference textbook on network security and networking principles.
+377,Principles of Algorithms (Vol. 4),Priya Mehta,DevOps,978-013000277,4.6,2017,Academic engineering reference textbook on devops and information technology principles.
+378,Handbook of Database Systems (Vol. 1),Rahul Joshi,Clean Code,978-013000278,4.3,2014,Academic engineering reference textbook on clean code and software engineering principles.
+379,Advanced Deep Learning (Vol. 4),Kavya Bhat,Semiconductors,978-013000279,4.5,2010,Academic engineering reference textbook on semiconductors and electronics principles.
+380,Advanced Pattern Recognition (Vol. 4),Yash Sharma,Cloud Computing,978-013000280,4.3,2001,Academic engineering reference textbook on cloud computing and information technology principles.
+381,Applied VLSI Architecture (Vol. 4),Yash Malhotra,Signal Processing,978-013000281,4.5,2004,Academic engineering reference textbook on signal processing and e&tc principles.
+382,Handbook of VLSI Architecture (Vol. 2),Rahul Mehta,Pattern Recognition,978-013000282,4.8,2023,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+383,Handbook of Cyber Security (Vol. 4),Manish Deshmukh,Embedded Systems,978-013000283,5.0,2015,Academic engineering reference textbook on embedded systems and electronics principles.
+384,Principles of Data Structures (Vol. 1),Pooja Mehta,Microcontrollers,978-013000284,4.0,2009,Academic engineering reference textbook on microcontrollers and e&tc principles.
+385,Principles of Data Structures (Vol. 2),Priya Mehta,Communication Systems,978-013000285,5.0,2015,Academic engineering reference textbook on communication systems and e&tc principles.
+386,Advanced Cyber Security (Vol. 2),Priya Mehta,Data Mining,978-013000286,3.7,2022,Academic engineering reference textbook on data mining and ai & data science principles.
+387,Introduction to Signal Processing (Vol. 3),Pooja Verma,Operating Systems,978-013000287,4.4,2013,Academic engineering reference textbook on operating systems and computer science principles.
+388,Handbook of Cloud Computing (Vol. 4),Priya Nair,Testing,978-013000288,4.7,2004,Academic engineering reference textbook on testing and software engineering principles.
+389,Applied Signal Processing (Vol. 4),Dev Verma,Clean Code,978-013000289,4.6,2014,Academic engineering reference textbook on clean code and software engineering principles.
+390,Applied Cloud Computing (Vol. 3),Riya Malhotra,Cyber Security,978-013000290,4.3,2006,Academic engineering reference textbook on cyber security and information technology principles.
+391,Handbook of Database Systems (Vol. 2),Neha Bhat,Clean Code,978-013000291,4.4,2009,Academic engineering reference textbook on clean code and software engineering principles.
+392,Principles of Signal Processing (Vol. 3),Tanvi Singh,Testing,978-013000292,4.3,2023,Academic engineering reference textbook on testing and software engineering principles.
+393,Introduction to Pattern Recognition (Vol. 4),Rahul Pawar,Embedded Systems,978-013000293,4.3,2011,Academic engineering reference textbook on embedded systems and electronics principles.
+394,Introduction to Database Systems (Vol. 1),Kavya Singh,Pattern Recognition,978-013000294,4.8,2014,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+395,Advanced Computer Networks (Vol. 3),Tanvi Nair,Robotics,978-013000295,4.6,2008,Academic engineering reference textbook on robotics and electronics principles.
+396,Handbook of Operating Systems (Vol. 2),Sneha Sharma,AI/ML,978-013000296,4.2,2021,Academic engineering reference textbook on ai/ml and ai & data science principles.
+397,Introduction to Deep Learning (Vol. 4),Dev Nair,Agile Architecture,978-013000297,4.9,2015,Academic engineering reference textbook on agile architecture and software engineering principles.
+398,Introduction to Clean Code (Vol. 2),Pooja Chavan,Operating Systems,978-013000298,4.6,2015,Academic engineering reference textbook on operating systems and computer science principles.
+399,Modern Database Systems (Vol. 3),Neha Chavan,Wireless Protocols,978-013000299,4.8,2001,Academic engineering reference textbook on wireless protocols and networking principles.
+400,Handbook of Operating Systems (Vol. 1),Isha Gupta,Operating Systems,978-013000300,4.8,2005,Academic engineering reference textbook on operating systems and computer science principles.
+401,Modern Signal Processing (Vol. 2),Neha Singh,Communication Systems,978-013000301,4.2,2001,Academic engineering reference textbook on communication systems and e&tc principles.
+402,Handbook of Pattern Recognition (Vol. 1),Dev Deshmukh,Microcontrollers,978-013000302,4.3,2014,Academic engineering reference textbook on microcontrollers and e&tc principles.
+403,Modern Clean Code (Vol. 4),Vikram Rao,Wireless Protocols,978-013000303,4.8,2003,Academic engineering reference textbook on wireless protocols and networking principles.
+404,Applied Signal Processing (Vol. 3),Isha Sharma,Cloud Computing,978-013000304,4.7,2023,Academic engineering reference textbook on cloud computing and information technology principles.
+405,Handbook of Data Structures (Vol. 2),Isha Mehta,Cyber Security,978-013000305,4.5,2020,Academic engineering reference textbook on cyber security and information technology principles.
+406,Handbook of VLSI Architecture (Vol. 1),Rahul Chavan,Query Optimization,978-013000306,4.5,2003,Academic engineering reference textbook on query optimization and databases principles.
+407,Fundamentals of VLSI Architecture (Vol. 2),Aarav Deshmukh,Deep Learning,978-013000307,5.0,2012,Academic engineering reference textbook on deep learning and ai & data science principles.
+408,Modern Database Systems (Vol. 3),Neha Mehta,Testing,978-013000308,4.3,2023,Academic engineering reference textbook on testing and software engineering principles.
+409,Applied VLSI Architecture (Vol. 2),Priya Chavan,Microcontrollers,978-013000309,4.7,2003,Academic engineering reference textbook on microcontrollers and e&tc principles.
+410,Advanced Machine Learning (Vol. 3),Ananya Chavan,Network Security,978-013000310,4.4,2009,Academic engineering reference textbook on network security and networking principles.
+411,Advanced Embedded Systems (Vol. 4),Aditya Malhotra,Cloud Computing,978-013000311,4.4,2023,Academic engineering reference textbook on cloud computing and information technology principles.
+412,Applied Clean Code (Vol. 4),Tanvi Bhat,DevOps,978-013000312,4.9,2021,Academic engineering reference textbook on devops and information technology principles.
+413,Applied Cloud Computing (Vol. 1),Yash Malhotra,Agile Architecture,978-013000313,4.8,2016,Academic engineering reference textbook on agile architecture and software engineering principles.
+414,Handbook of Deep Learning (Vol. 1),Tanvi Singh,Web Technologies,978-013000314,4.8,2016,Academic engineering reference textbook on web technologies and information technology principles.
+415,Advanced VLSI Architecture (Vol. 4),Ananya Chavan,Agile Architecture,978-013000315,5.0,2006,Academic engineering reference textbook on agile architecture and software engineering principles.
+416,Handbook of Signal Processing (Vol. 1),Amit Verma,Computer Networks,978-013000316,4.5,2016,Academic engineering reference textbook on computer networks and networking principles.
+417,Handbook of Algorithms (Vol. 4),Neha Nair,Query Optimization,978-013000317,4.8,2000,Academic engineering reference textbook on query optimization and databases principles.
+418,Modern Algorithms (Vol. 2),Manish Patel,NoSQL,978-013000318,4.4,2001,Academic engineering reference textbook on nosql and databases principles.
+419,Applied Deep Learning (Vol. 1),Rohan Singh,NoSQL,978-013000319,4.6,2015,Academic engineering reference textbook on nosql and databases principles.
+420,Fundamentals of Embedded Systems (Vol. 2),Pooja Kulkarni,Microcontrollers,978-013000320,4.4,2012,Academic engineering reference textbook on microcontrollers and e&tc principles.
+421,Fundamentals of Deep Learning (Vol. 2),Kavya Patel,IoT,978-013000321,4.5,2005,Academic engineering reference textbook on iot and networking principles.
+422,Applied Computer Networks (Vol. 1),Aarav Deshmukh,Distributed Databases,978-013000322,4.7,2014,Academic engineering reference textbook on distributed databases and databases principles.
+423,Modern Computer Networks (Vol. 2),Amit Kulkarni,Query Optimization,978-013000323,4.2,2004,Academic engineering reference textbook on query optimization and databases principles.
+424,Applied Cloud Computing (Vol. 1),Priya Bhat,VLSI Design,978-013000324,5.0,2021,Academic engineering reference textbook on vlsi design and electronics principles.
+425,Advanced Computer Networks (Vol. 1),Ananya Mehta,Relational DB,978-013000325,4.1,2001,Academic engineering reference textbook on relational db and databases principles.
+426,Advanced Operating Systems (Vol. 1),Rahul Malhotra,Computer Networks,978-013000326,4.0,2007,Academic engineering reference textbook on computer networks and networking principles.
+427,Advanced Clean Code (Vol. 3),Sneha Pawar,Software Design,978-013000327,5.0,2023,Academic engineering reference textbook on software design and software engineering principles.
+428,Advanced Database Systems (Vol. 2),Yash Rao,Cyber Security,978-013000328,4.8,2013,Academic engineering reference textbook on cyber security and information technology principles.
+429,Introduction to Clean Code (Vol. 2),Pooja Joshi,Embedded Systems,978-013000329,4.7,2015,Academic engineering reference textbook on embedded systems and electronics principles.
+430,Applied Data Structures (Vol. 4),Yash Kulkarni,Microcontrollers,978-013000330,4.8,2022,Academic engineering reference textbook on microcontrollers and e&tc principles.
+431,Advanced Database Systems (Vol. 4),Isha Bhat,Query Optimization,978-013000331,4.5,2017,Academic engineering reference textbook on query optimization and databases principles.
+432,Modern Computer Networks (Vol. 3),Aditya Bhat,Wireless Protocols,978-013000332,4.1,2014,Academic engineering reference textbook on wireless protocols and networking principles.
+433,Fundamentals of Clean Code (Vol. 2),Rahul Rao,Communication Systems,978-013000333,4.5,2008,Academic engineering reference textbook on communication systems and e&tc principles.
+434,Applied Deep Learning (Vol. 4),Kavya Patel,Clean Code,978-013000334,4.2,2017,Academic engineering reference textbook on clean code and software engineering principles.
+435,Principles of Machine Learning (Vol. 1),Rohan Rao,Software Design,978-013000335,4.9,2024,Academic engineering reference textbook on software design and software engineering principles.
+436,Advanced Cyber Security (Vol. 3),Neha Singh,Testing,978-013000336,4.4,2000,Academic engineering reference textbook on testing and software engineering principles.
+437,Applied Deep Learning (Vol. 4),Sneha Nair,Agile Architecture,978-013000337,4.2,2019,Academic engineering reference textbook on agile architecture and software engineering principles.
+438,Advanced Clean Code (Vol. 3),Neha Gupta,Testing,978-013000338,4.4,2014,Academic engineering reference textbook on testing and software engineering principles.
+439,Principles of VLSI Architecture (Vol. 4),Amit Patel,Cyber Security,978-013000339,4.7,2023,Academic engineering reference textbook on cyber security and information technology principles.
+440,Advanced VLSI Architecture (Vol. 3),Pooja Sharma,Network Security,978-013000340,4.3,2018,Academic engineering reference textbook on network security and networking principles.
+441,Introduction to Database Systems (Vol. 4),Neha Verma,Agile Architecture,978-013000341,4.2,2006,Academic engineering reference textbook on agile architecture and software engineering principles.
+442,Fundamentals of Pattern Recognition (Vol. 2),Shruti Joshi,Cloud Computing,978-013000342,4.6,2020,Academic engineering reference textbook on cloud computing and information technology principles.
+443,Modern Cyber Security (Vol. 4),Shruti Malhotra,Cyber Security,978-013000343,4.6,2005,Academic engineering reference textbook on cyber security and information technology principles.
+444,Advanced Operating Systems (Vol. 4),Isha Singh,Cloud Computing,978-013000344,4.3,2017,Academic engineering reference textbook on cloud computing and information technology principles.
+445,Modern Cyber Security (Vol. 1),Priya Bhat,Electronics,978-013000345,4.3,2000,Academic engineering reference textbook on electronics and e&tc principles.
+446,Modern Data Structures (Vol. 2),Rohan Nair,Distributed Databases,978-013000346,4.6,2004,Academic engineering reference textbook on distributed databases and databases principles.
+447,Handbook of Signal Processing (Vol. 3),Priya Mehta,Signal Processing,978-013000347,3.9,2020,Academic engineering reference textbook on signal processing and e&tc principles.
+448,Introduction to Algorithms (Vol. 4),Aarav Sharma,IoT,978-013000348,3.9,2016,Academic engineering reference textbook on iot and networking principles.
+449,Introduction to Clean Code (Vol. 4),Isha Patel,Embedded Systems,978-013000349,4.2,2003,Academic engineering reference textbook on embedded systems and electronics principles.
+450,Advanced Pattern Recognition (Vol. 3),Kavya Deshmukh,Deep Learning,978-013000350,4.4,2012,Academic engineering reference textbook on deep learning and ai & data science principles.
+451,Fundamentals of Signal Processing (Vol. 2),Sneha Deshmukh,Computer Architecture,978-013000351,4.6,2021,Academic engineering reference textbook on computer architecture and computer science principles.
+452,Introduction to Machine Learning (Vol. 4),Rahul Joshi,Algorithms,978-013000352,5.0,2015,Academic engineering reference textbook on algorithms and computer science principles.
+453,Applied Embedded Systems (Vol. 1),Shruti Pawar,Electronics,978-013000353,4.8,2013,Academic engineering reference textbook on electronics and e&tc principles.
+454,Handbook of Robotics (Vol. 1),Sneha Rao,Web Technologies,978-013000354,4.4,2022,Academic engineering reference textbook on web technologies and information technology principles.
+455,Introduction to Robotics (Vol. 1),Vikram Singh,Network Security,978-013000355,4.5,2017,Academic engineering reference textbook on network security and networking principles.
+456,Modern VLSI Architecture (Vol. 1),Siddharth Mehta,Signal Processing,978-013000356,4.1,2004,Academic engineering reference textbook on signal processing and e&tc principles.
+457,Principles of Embedded Systems (Vol. 2),Manish Pawar,Relational DB,978-013000357,4.5,2012,Academic engineering reference textbook on relational db and databases principles.
+458,Modern Operating Systems (Vol. 2),Rohan Joshi,DevOps,978-013000358,4.4,2023,Academic engineering reference textbook on devops and information technology principles.
+459,Introduction to Machine Learning (Vol. 2),Rohan Kulkarni,Web Technologies,978-013000359,4.6,2019,Academic engineering reference textbook on web technologies and information technology principles.
+460,Introduction to Data Structures (Vol. 3),Amit Malhotra,NoSQL,978-013000360,4.2,2007,Academic engineering reference textbook on nosql and databases principles.
+461,Fundamentals of Embedded Systems (Vol. 4),Rohan Bhat,DevOps,978-013000361,4.7,2019,Academic engineering reference textbook on devops and information technology principles.
+462,Applied Deep Learning (Vol. 1),Vikram Verma,VLSI Design,978-013000362,5.0,2012,Academic engineering reference textbook on vlsi design and electronics principles.
+463,Principles of VLSI Architecture (Vol. 1),Rohan Sharma,Data Mining,978-013000363,4.5,2009,Academic engineering reference textbook on data mining and ai & data science principles.
+464,Modern Database Systems (Vol. 1),Aditya Patel,Network Security,978-013000364,4.7,2005,Academic engineering reference textbook on network security and networking principles.
+465,Handbook of Clean Code (Vol. 4),Ananya Sharma,Query Optimization,978-013000365,4.8,2002,Academic engineering reference textbook on query optimization and databases principles.
+466,Handbook of Pattern Recognition (Vol. 3),Rahul Sharma,Web Technologies,978-013000366,4.3,2009,Academic engineering reference textbook on web technologies and information technology principles.
+467,Modern Deep Learning (Vol. 2),Manish Joshi,Query Optimization,978-013000367,4.6,2005,Academic engineering reference textbook on query optimization and databases principles.
+468,Advanced Database Systems (Vol. 3),Vikram Malhotra,Distributed Databases,978-013000368,4.5,2004,Academic engineering reference textbook on distributed databases and databases principles.
+469,Fundamentals of Database Systems (Vol. 4),Neha Malhotra,Operating Systems,978-013000369,4.5,2002,Academic engineering reference textbook on operating systems and computer science principles.
+470,Advanced Operating Systems (Vol. 4),Riya Mehta,Cyber Security,978-013000370,4.2,2006,Academic engineering reference textbook on cyber security and information technology principles.
+471,Advanced Database Systems (Vol. 1),Rahul Kulkarni,Computer Networks,978-013000371,4.5,2019,Academic engineering reference textbook on computer networks and networking principles.
+472,Fundamentals of VLSI Architecture (Vol. 4),Riya Verma,NoSQL,978-013000372,4.7,2009,Academic engineering reference textbook on nosql and databases principles.
+473,Fundamentals of VLSI Architecture (Vol. 2),Rahul Kulkarni,Cloud Computing,978-013000373,5.0,2009,Academic engineering reference textbook on cloud computing and information technology principles.
+474,Principles of Machine Learning (Vol. 3),Rahul Kulkarni,Wireless Protocols,978-013000374,4.9,2003,Academic engineering reference textbook on wireless protocols and networking principles.
+475,Applied Cloud Computing (Vol. 1),Amit Nair,Agile Architecture,978-013000375,5.0,2006,Academic engineering reference textbook on agile architecture and software engineering principles.
+476,Modern Operating Systems (Vol. 1),Pooja Chavan,Network Security,978-013000376,4.2,2015,Academic engineering reference textbook on network security and networking principles.
+477,Advanced Database Systems (Vol. 2),Pooja Bhat,Pattern Recognition,978-013000377,4.8,2012,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+478,Handbook of Signal Processing (Vol. 4),Tanvi Joshi,Theory of Computation,978-013000378,4.6,2022,Academic engineering reference textbook on theory of computation and computer science principles.
+479,Modern VLSI Architecture (Vol. 1),Ananya Bhat,Relational DB,978-013000379,5.0,2007,Academic engineering reference textbook on relational db and databases principles.
+480,Applied Pattern Recognition (Vol. 1),Manish Chavan,Cloud Computing,978-013000380,4.2,2021,Academic engineering reference textbook on cloud computing and information technology principles.
+481,Modern Machine Learning (Vol. 1),Aarav Patel,NoSQL,978-013000381,4.2,2008,Academic engineering reference textbook on nosql and databases principles.
+482,Fundamentals of VLSI Architecture (Vol. 4),Amit Bhat,Agile Architecture,978-013000382,4.3,2021,Academic engineering reference textbook on agile architecture and software engineering principles.
+483,Introduction to Signal Processing (Vol. 1),Neha Gupta,Pattern Recognition,978-013000383,3.7,2002,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+484,Principles of Database Systems (Vol. 3),Amit Bhat,Operating Systems,978-013000384,4.3,2006,Academic engineering reference textbook on operating systems and computer science principles.
+485,Fundamentals of Deep Learning (Vol. 4),Amit Kulkarni,Network Security,978-013000385,4.2,2002,Academic engineering reference textbook on network security and networking principles.
+486,Modern Operating Systems (Vol. 1),Aarav Pawar,Semiconductors,978-013000386,4.6,2010,Academic engineering reference textbook on semiconductors and electronics principles.
+487,Applied Computer Networks (Vol. 2),Tanvi Verma,Operating Systems,978-013000387,4.6,2010,Academic engineering reference textbook on operating systems and computer science principles.
+488,Advanced Cloud Computing (Vol. 4),Isha Verma,Query Optimization,978-013000388,5.0,2020,Academic engineering reference textbook on query optimization and databases principles.
+489,Introduction to Operating Systems (Vol. 2),Amit Mehta,Query Optimization,978-013000389,4.9,2013,Academic engineering reference textbook on query optimization and databases principles.
+490,Applied Computer Networks (Vol. 2),Vikram Bhat,Relational DB,978-013000390,4.3,2022,Academic engineering reference textbook on relational db and databases principles.
+491,Modern Cyber Security (Vol. 2),Kavya Kulkarni,Algorithms,978-013000391,4.1,2006,Academic engineering reference textbook on algorithms and computer science principles.
+492,Principles of Data Structures (Vol. 4),Yash Chavan,Computer Networks,978-013000392,4.7,2010,Academic engineering reference textbook on computer networks and networking principles.
+493,Handbook of Deep Learning (Vol. 3),Kavya Pawar,Query Optimization,978-013000393,4.0,2014,Academic engineering reference textbook on query optimization and databases principles.
+494,Handbook of Pattern Recognition (Vol. 1),Aditya Kulkarni,Pattern Recognition,978-013000394,5.0,2003,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+495,Introduction to Embedded Systems (Vol. 3),Aditya Joshi,Clean Code,978-013000395,5.0,2012,Academic engineering reference textbook on clean code and software engineering principles.
+496,Handbook of Machine Learning (Vol. 4),Isha Malhotra,Distributed Databases,978-013000396,4.3,2020,Academic engineering reference textbook on distributed databases and databases principles.
+497,Fundamentals of Database Systems (Vol. 2),Isha Kulkarni,Deep Learning,978-013000397,3.8,2014,Academic engineering reference textbook on deep learning and ai & data science principles.
+498,Introduction to Signal Processing (Vol. 2),Siddharth Pawar,Microcontrollers,978-013000398,5.0,2012,Academic engineering reference textbook on microcontrollers and e&tc principles.
+499,Applied Signal Processing (Vol. 4),Amit Malhotra,IoT,978-013000399,4.5,2005,Academic engineering reference textbook on iot and networking principles.
+500,Modern Cloud Computing (Vol. 2),Neha Sharma,Algorithms,978-013000400,5.0,2008,Academic engineering reference textbook on algorithms and computer science principles.
+501,Advanced Cloud Computing (Vol. 4),Manish Nair,Clean Code,978-013000401,3.9,2024,Academic engineering reference textbook on clean code and software engineering principles.
+502,Handbook of Deep Learning (Vol. 3),Tanvi Pawar,Computer Networks,978-013000402,4.3,2011,Academic engineering reference textbook on computer networks and networking principles.
+503,Handbook of Computer Networks (Vol. 4),Ananya Nair,Communication Systems,978-013000403,4.5,2020,Academic engineering reference textbook on communication systems and e&tc principles.
+504,Modern Algorithms (Vol. 4),Vikram Kulkarni,Clean Code,978-013000404,4.5,2002,Academic engineering reference textbook on clean code and software engineering principles.
+505,Modern Cloud Computing (Vol. 2),Siddharth Bhat,Computer Networks,978-013000405,4.3,2023,Academic engineering reference textbook on computer networks and networking principles.
+506,Advanced Pattern Recognition (Vol. 2),Siddharth Pawar,DevOps,978-013000406,4.7,2006,Academic engineering reference textbook on devops and information technology principles.
+507,Handbook of Database Systems (Vol. 2),Dev Nair,Microcontrollers,978-013000407,4.1,2009,Academic engineering reference textbook on microcontrollers and e&tc principles.
+508,Modern Clean Code (Vol. 1),Aditya Bhat,Embedded Systems,978-013000408,4.4,2013,Academic engineering reference textbook on embedded systems and electronics principles.
+509,Modern Data Structures (Vol. 2),Aditya Rao,Microcontrollers,978-013000409,4.5,2004,Academic engineering reference textbook on microcontrollers and e&tc principles.
+510,Modern Cyber Security (Vol. 4),Shruti Verma,Cloud Computing,978-013000410,4.7,2018,Academic engineering reference textbook on cloud computing and information technology principles.
+511,Fundamentals of Signal Processing (Vol. 1),Rohan Gupta,Robotics,978-013000411,4.8,2016,Academic engineering reference textbook on robotics and electronics principles.
+512,Fundamentals of Signal Processing (Vol. 3),Manish Sharma,Embedded Systems,978-013000412,4.1,2024,Academic engineering reference textbook on embedded systems and electronics principles.
+513,Applied Data Structures (Vol. 3),Rohan Bhat,Theory of Computation,978-013000413,3.9,2017,Academic engineering reference textbook on theory of computation and computer science principles.
+514,Fundamentals of Cyber Security (Vol. 2),Shruti Deshmukh,Distributed Databases,978-013000414,5.0,2010,Academic engineering reference textbook on distributed databases and databases principles.
+515,Handbook of Pattern Recognition (Vol. 2),Manish Pawar,Embedded Systems,978-013000415,4.6,2015,Academic engineering reference textbook on embedded systems and electronics principles.
+516,Introduction to Deep Learning (Vol. 4),Aarav Patel,Web Technologies,978-013000416,4.2,2005,Academic engineering reference textbook on web technologies and information technology principles.
+517,Introduction to Machine Learning (Vol. 2),Aditya Singh,IoT,978-013000417,5.0,2020,Academic engineering reference textbook on iot and networking principles.
+518,Modern Robotics (Vol. 3),Rohan Chavan,VLSI Design,978-013000418,4.5,2011,Academic engineering reference textbook on vlsi design and electronics principles.
+519,Principles of Data Structures (Vol. 2),Priya Gupta,Semiconductors,978-013000419,5.0,2020,Academic engineering reference textbook on semiconductors and electronics principles.
+520,Fundamentals of Data Structures (Vol. 1),Ananya Sharma,VLSI Design,978-013000420,4.5,2006,Academic engineering reference textbook on vlsi design and electronics principles.
+521,Advanced Pattern Recognition (Vol. 2),Yash Chavan,Computer Networks,978-013000421,5.0,2014,Academic engineering reference textbook on computer networks and networking principles.
+522,Applied VLSI Architecture (Vol. 1),Pooja Nair,Electronics,978-013000422,5.0,2004,Academic engineering reference textbook on electronics and e&tc principles.
+523,Advanced Machine Learning (Vol. 1),Ananya Patel,Computer Networks,978-013000423,4.4,2010,Academic engineering reference textbook on computer networks and networking principles.
+524,Advanced Machine Learning (Vol. 2),Aditya Patel,Cyber Security,978-013000424,4.9,2016,Academic engineering reference textbook on cyber security and information technology principles.
+525,Fundamentals of VLSI Architecture (Vol. 2),Aditya Singh,Signal Processing,978-013000425,4.8,2013,Academic engineering reference textbook on signal processing and e&tc principles.
+526,Introduction to Robotics (Vol. 1),Aditya Bhat,Wireless Protocols,978-013000426,5.0,2003,Academic engineering reference textbook on wireless protocols and networking principles.
+527,Fundamentals of VLSI Architecture (Vol. 2),Sneha Deshmukh,NoSQL,978-013000427,4.1,2020,Academic engineering reference textbook on nosql and databases principles.
+528,Handbook of Pattern Recognition (Vol. 3),Aarav Pawar,Operating Systems,978-013000428,4.8,2021,Academic engineering reference textbook on operating systems and computer science principles.
+529,Handbook of Pattern Recognition (Vol. 2),Rahul Deshmukh,VLSI Design,978-013000429,4.9,2020,Academic engineering reference textbook on vlsi design and electronics principles.
+530,Fundamentals of Machine Learning (Vol. 1),Sneha Malhotra,Signal Processing,978-013000430,3.8,2020,Academic engineering reference textbook on signal processing and e&tc principles.
+531,Principles of Robotics (Vol. 3),Aditya Gupta,Algorithms,978-013000431,4.0,2018,Academic engineering reference textbook on algorithms and computer science principles.
+532,Handbook of Data Structures (Vol. 2),Shruti Bhat,NoSQL,978-013000432,3.7,2002,Academic engineering reference textbook on nosql and databases principles.
+533,Introduction to Database Systems (Vol. 2),Priya Singh,Electronics,978-013000433,4.4,2001,Academic engineering reference textbook on electronics and e&tc principles.
+534,Applied Operating Systems (Vol. 4),Pooja Nair,NoSQL,978-013000434,4.8,2012,Academic engineering reference textbook on nosql and databases principles.
+535,Principles of Deep Learning (Vol. 3),Rohan Joshi,Operating Systems,978-013000435,5.0,2006,Academic engineering reference textbook on operating systems and computer science principles.
+536,Fundamentals of Pattern Recognition (Vol. 1),Neha Nair,Pattern Recognition,978-013000436,4.5,2013,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+537,Advanced Deep Learning (Vol. 4),Ananya Malhotra,Software Design,978-013000437,5.0,2019,Academic engineering reference textbook on software design and software engineering principles.
+538,Applied Operating Systems (Vol. 2),Ananya Sharma,Microcontrollers,978-013000438,3.9,2022,Academic engineering reference textbook on microcontrollers and e&tc principles.
+539,Advanced Signal Processing (Vol. 3),Yash Joshi,AI/ML,978-013000439,3.8,2023,Academic engineering reference textbook on ai/ml and ai & data science principles.
+540,Principles of Embedded Systems (Vol. 3),Ananya Bhat,VLSI Design,978-013000440,4.5,2000,Academic engineering reference textbook on vlsi design and electronics principles.
+541,Principles of Clean Code (Vol. 1),Vikram Nair,DevOps,978-013000441,4.7,2018,Academic engineering reference textbook on devops and information technology principles.
+542,Fundamentals of Clean Code (Vol. 3),Priya Malhotra,Theory of Computation,978-013000442,4.5,2018,Academic engineering reference textbook on theory of computation and computer science principles.
+543,Advanced Database Systems (Vol. 1),Manish Chavan,Pattern Recognition,978-013000443,3.7,2023,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+544,Applied Clean Code (Vol. 1),Priya Pawar,Operating Systems,978-013000444,4.5,2000,Academic engineering reference textbook on operating systems and computer science principles.
+545,Fundamentals of VLSI Architecture (Vol. 4),Aditya Verma,Software Design,978-013000445,4.0,2001,Academic engineering reference textbook on software design and software engineering principles.
+546,Principles of Computer Networks (Vol. 4),Dev Deshmukh,Distributed Databases,978-013000446,4.8,2002,Academic engineering reference textbook on distributed databases and databases principles.
+547,Handbook of Data Structures (Vol. 1),Isha Rao,Web Technologies,978-013000447,4.6,2016,Academic engineering reference textbook on web technologies and information technology principles.
+548,Introduction to Robotics (Vol. 4),Neha Bhat,Communication Systems,978-013000448,4.1,2009,Academic engineering reference textbook on communication systems and e&tc principles.
+549,Handbook of Signal Processing (Vol. 1),Kavya Rao,Web Technologies,978-013000449,4.3,2009,Academic engineering reference textbook on web technologies and information technology principles.
+550,Fundamentals of VLSI Architecture (Vol. 4),Siddharth Nair,VLSI Design,978-013000450,4.1,2017,Academic engineering reference textbook on vlsi design and electronics principles.
+551,Introduction to Robotics (Vol. 4),Aarav Rao,Agile Architecture,978-013000451,4.5,2017,Academic engineering reference textbook on agile architecture and software engineering principles.
+552,Principles of Algorithms (Vol. 4),Neha Patel,Web Technologies,978-013000452,4.9,2006,Academic engineering reference textbook on web technologies and information technology principles.
+553,Fundamentals of Algorithms (Vol. 2),Vikram Patel,Testing,978-013000453,4.1,2001,Academic engineering reference textbook on testing and software engineering principles.
+554,Applied Robotics (Vol. 3),Amit Nair,Testing,978-013000454,4.7,2002,Academic engineering reference textbook on testing and software engineering principles.
+555,Applied Cyber Security (Vol. 4),Rohan Mehta,Operating Systems,978-013000455,4.3,2018,Academic engineering reference textbook on operating systems and computer science principles.
+556,Applied Embedded Systems (Vol. 2),Neha Deshmukh,Communication Systems,978-013000456,4.2,2010,Academic engineering reference textbook on communication systems and e&tc principles.
+557,Principles of Signal Processing (Vol. 3),Sneha Patel,NoSQL,978-013000457,4.5,2006,Academic engineering reference textbook on nosql and databases principles.
+558,Advanced Deep Learning (Vol. 2),Amit Malhotra,AI/ML,978-013000458,4.1,2010,Academic engineering reference textbook on ai/ml and ai & data science principles.
+559,Handbook of VLSI Architecture (Vol. 2),Amit Deshmukh,Relational DB,978-013000459,4.3,2014,Academic engineering reference textbook on relational db and databases principles.
+560,Introduction to Embedded Systems (Vol. 3),Riya Sharma,Semiconductors,978-013000460,4.0,2006,Academic engineering reference textbook on semiconductors and electronics principles.
+561,Introduction to Operating Systems (Vol. 2),Kavya Gupta,Cloud Computing,978-013000461,5.0,2016,Academic engineering reference textbook on cloud computing and information technology principles.
+562,Principles of Cyber Security (Vol. 2),Aarav Gupta,Microcontrollers,978-013000462,4.5,2014,Academic engineering reference textbook on microcontrollers and e&tc principles.
+563,Fundamentals of Deep Learning (Vol. 2),Ananya Sharma,Software Design,978-013000463,4.2,2001,Academic engineering reference textbook on software design and software engineering principles.
+564,Advanced Cyber Security (Vol. 4),Kavya Chavan,Agile Architecture,978-013000464,4.6,2020,Academic engineering reference textbook on agile architecture and software engineering principles.
+565,Modern Deep Learning (Vol. 1),Rohan Rao,Computer Architecture,978-013000465,4.5,2020,Academic engineering reference textbook on computer architecture and computer science principles.
+566,Introduction to Robotics (Vol. 3),Ananya Sharma,Wireless Protocols,978-013000466,4.4,2014,Academic engineering reference textbook on wireless protocols and networking principles.
+567,Handbook of Machine Learning (Vol. 4),Shruti Sharma,Signal Processing,978-013000467,4.7,2012,Academic engineering reference textbook on signal processing and e&tc principles.
+568,Principles of Computer Networks (Vol. 2),Vikram Deshmukh,Distributed Databases,978-013000468,4.8,2014,Academic engineering reference textbook on distributed databases and databases principles.
+569,Handbook of Pattern Recognition (Vol. 2),Neha Malhotra,AI/ML,978-013000469,4.3,2013,Academic engineering reference textbook on ai/ml and ai & data science principles.
+570,Introduction to Database Systems (Vol. 4),Aditya Gupta,Computer Networks,978-013000470,4.3,2006,Academic engineering reference textbook on computer networks and networking principles.
+571,Fundamentals of Cloud Computing (Vol. 3),Shruti Joshi,Software Design,978-013000471,4.4,2015,Academic engineering reference textbook on software design and software engineering principles.
+572,Fundamentals of Database Systems (Vol. 2),Aarav Kulkarni,Cyber Security,978-013000472,3.6,2019,Academic engineering reference textbook on cyber security and information technology principles.
+573,Modern Cloud Computing (Vol. 3),Priya Bhat,Software Design,978-013000473,3.9,2015,Academic engineering reference textbook on software design and software engineering principles.
+574,Advanced Deep Learning (Vol. 2),Sneha Deshmukh,Cloud Computing,978-013000474,5.0,2017,Academic engineering reference textbook on cloud computing and information technology principles.
+575,Handbook of Cyber Security (Vol. 4),Kavya Singh,Signal Processing,978-013000475,5.0,2005,Academic engineering reference textbook on signal processing and e&tc principles.
+576,Handbook of VLSI Architecture (Vol. 3),Manish Sharma,Deep Learning,978-013000476,4.4,2022,Academic engineering reference textbook on deep learning and ai & data science principles.
+577,Handbook of Computer Networks (Vol. 4),Tanvi Deshmukh,Cloud Computing,978-013000477,4.7,2005,Academic engineering reference textbook on cloud computing and information technology principles.
+578,Introduction to Algorithms (Vol. 2),Riya Rao,Computer Networks,978-013000478,4.6,2000,Academic engineering reference textbook on computer networks and networking principles.
+579,Principles of Robotics (Vol. 2),Aditya Kulkarni,Computer Networks,978-013000479,5.0,2022,Academic engineering reference textbook on computer networks and networking principles.
+580,Introduction to Algorithms (Vol. 2),Manish Nair,Pattern Recognition,978-013000480,4.9,2004,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+581,Introduction to VLSI Architecture (Vol. 4),Manish Patel,Computer Architecture,978-013000481,4.4,2010,Academic engineering reference textbook on computer architecture and computer science principles.
+582,Advanced Embedded Systems (Vol. 4),Shruti Chavan,Embedded Systems,978-013000482,4.1,2010,Academic engineering reference textbook on embedded systems and electronics principles.
+583,Advanced Data Structures (Vol. 2),Rahul Deshmukh,Pattern Recognition,978-013000483,3.9,2023,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+584,Advanced Operating Systems (Vol. 1),Manish Gupta,VLSI Design,978-013000484,4.6,2024,Academic engineering reference textbook on vlsi design and electronics principles.
+585,Handbook of VLSI Architecture (Vol. 2),Manish Patel,Signal Processing,978-013000485,4.2,2015,Academic engineering reference textbook on signal processing and e&tc principles.
+586,Applied Deep Learning (Vol. 2),Kavya Kulkarni,Pattern Recognition,978-013000486,3.9,2005,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+587,Fundamentals of Algorithms (Vol. 3),Siddharth Rao,Computer Architecture,978-013000487,4.2,2022,Academic engineering reference textbook on computer architecture and computer science principles.
+588,Principles of Cloud Computing (Vol. 1),Aarav Sharma,Computer Architecture,978-013000488,4.1,2012,Academic engineering reference textbook on computer architecture and computer science principles.
+589,Advanced Robotics (Vol. 4),Shruti Singh,IoT,978-013000489,5.0,2012,Academic engineering reference textbook on iot and networking principles.
+590,Introduction to Cyber Security (Vol. 4),Manish Chavan,DevOps,978-013000490,4.9,2024,Academic engineering reference textbook on devops and information technology principles.
+591,Fundamentals of Deep Learning (Vol. 1),Neha Sharma,Agile Architecture,978-013000491,4.5,2010,Academic engineering reference textbook on agile architecture and software engineering principles.
+592,Introduction to VLSI Architecture (Vol. 2),Rahul Verma,Semiconductors,978-013000492,5.0,2023,Academic engineering reference textbook on semiconductors and electronics principles.
+593,Principles of Pattern Recognition (Vol. 4),Aarav Gupta,Algorithms,978-013000493,4.5,2020,Academic engineering reference textbook on algorithms and computer science principles.
+594,Advanced Algorithms (Vol. 1),Dev Rao,Data Mining,978-013000494,4.2,2006,Academic engineering reference textbook on data mining and ai & data science principles.
+595,Applied Database Systems (Vol. 3),Sneha Patel,NoSQL,978-013000495,5.0,2001,Academic engineering reference textbook on nosql and databases principles.
+596,Advanced Algorithms (Vol. 3),Aarav Gupta,Query Optimization,978-013000496,4.7,2002,Academic engineering reference textbook on query optimization and databases principles.
+597,Advanced Deep Learning (Vol. 1),Siddharth Verma,Robotics,978-013000497,4.1,2020,Academic engineering reference textbook on robotics and electronics principles.
+598,Fundamentals of Cyber Security (Vol. 1),Neha Bhat,Semiconductors,978-013000498,4.4,2012,Academic engineering reference textbook on semiconductors and electronics principles.
+599,Applied Database Systems (Vol. 1),Tanvi Gupta,IoT,978-013000499,4.1,2005,Academic engineering reference textbook on iot and networking principles.
+600,Principles of Embedded Systems (Vol. 4),Priya Deshmukh,DevOps,978-013000500,3.9,2014,Academic engineering reference textbook on devops and information technology principles.
+601,Advanced Cyber Security (Vol. 3),Manish Sharma,Network Security,978-013000501,4.9,2004,Academic engineering reference textbook on network security and networking principles.
+602,Applied VLSI Architecture (Vol. 4),Manish Rao,Algorithms,978-013000502,5.0,2017,Academic engineering reference textbook on algorithms and computer science principles.
+603,Modern Clean Code (Vol. 4),Tanvi Chavan,Communication Systems,978-013000503,3.9,2015,Academic engineering reference textbook on communication systems and e&tc principles.
+604,Principles of Deep Learning (Vol. 4),Priya Joshi,Testing,978-013000504,4.7,2018,Academic engineering reference textbook on testing and software engineering principles.
+605,Modern Signal Processing (Vol. 2),Isha Rao,AI/ML,978-013000505,4.2,2006,Academic engineering reference textbook on ai/ml and ai & data science principles.
+606,Fundamentals of Deep Learning (Vol. 4),Siddharth Pawar,AI/ML,978-013000506,4.3,2020,Academic engineering reference textbook on ai/ml and ai & data science principles.
+607,Principles of Robotics (Vol. 1),Rohan Gupta,Pattern Recognition,978-013000507,4.3,2017,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+608,Modern Database Systems (Vol. 4),Aarav Bhat,NoSQL,978-013000508,4.2,2022,Academic engineering reference textbook on nosql and databases principles.
+609,Fundamentals of Embedded Systems (Vol. 2),Manish Mehta,Relational DB,978-013000509,4.5,2018,Academic engineering reference textbook on relational db and databases principles.
+610,Handbook of Cloud Computing (Vol. 1),Neha Pawar,Algorithms,978-013000510,4.2,2017,Academic engineering reference textbook on algorithms and computer science principles.
+611,Principles of Machine Learning (Vol. 4),Manish Mehta,DevOps,978-013000511,4.6,2015,Academic engineering reference textbook on devops and information technology principles.
+612,Principles of Machine Learning (Vol. 2),Riya Mehta,Signal Processing,978-013000512,4.5,2021,Academic engineering reference textbook on signal processing and e&tc principles.
+613,Fundamentals of Robotics (Vol. 3),Sneha Sharma,Relational DB,978-013000513,4.4,2023,Academic engineering reference textbook on relational db and databases principles.
+614,Principles of Algorithms (Vol. 3),Neha Deshmukh,Network Security,978-013000514,4.1,2008,Academic engineering reference textbook on network security and networking principles.
+615,Modern Computer Networks (Vol. 2),Neha Nair,Computer Networks,978-013000515,4.3,2014,Academic engineering reference textbook on computer networks and networking principles.
+616,Applied Machine Learning (Vol. 1),Siddharth Malhotra,Cyber Security,978-013000516,4.8,2006,Academic engineering reference textbook on cyber security and information technology principles.
+617,Modern Clean Code (Vol. 3),Priya Joshi,Query Optimization,978-013000517,4.7,2005,Academic engineering reference textbook on query optimization and databases principles.
+618,Applied Clean Code (Vol. 4),Aditya Bhat,Computer Architecture,978-013000518,4.1,2016,Academic engineering reference textbook on computer architecture and computer science principles.
+619,Advanced Robotics (Vol. 2),Priya Rao,Signal Processing,978-013000519,4.5,2001,Academic engineering reference textbook on signal processing and e&tc principles.
+620,Principles of Operating Systems (Vol. 2),Vikram Kulkarni,Computer Networks,978-013000520,4.8,2014,Academic engineering reference textbook on computer networks and networking principles.
+621,Applied Algorithms (Vol. 2),Kavya Malhotra,Relational DB,978-013000521,3.8,2019,Academic engineering reference textbook on relational db and databases principles.
+622,Modern Signal Processing (Vol. 3),Kavya Verma,Wireless Protocols,978-013000522,4.7,2008,Academic engineering reference textbook on wireless protocols and networking principles.
+623,Introduction to Machine Learning (Vol. 1),Isha Pawar,Computer Architecture,978-013000523,4.2,2018,Academic engineering reference textbook on computer architecture and computer science principles.
+624,Applied Computer Networks (Vol. 2),Vikram Chavan,Agile Architecture,978-013000524,4.7,2013,Academic engineering reference textbook on agile architecture and software engineering principles.
+625,Fundamentals of Robotics (Vol. 2),Isha Mehta,Electronics,978-013000525,4.2,2000,Academic engineering reference textbook on electronics and e&tc principles.
+626,Handbook of Cloud Computing (Vol. 3),Vikram Gupta,Clean Code,978-013000526,3.8,2012,Academic engineering reference textbook on clean code and software engineering principles.
+627,Principles of Computer Networks (Vol. 4),Neha Chavan,DevOps,978-013000527,3.8,2016,Academic engineering reference textbook on devops and information technology principles.
+628,Introduction to Clean Code (Vol. 3),Tanvi Chavan,Relational DB,978-013000528,4.5,2019,Academic engineering reference textbook on relational db and databases principles.
+629,Applied Deep Learning (Vol. 4),Rohan Kulkarni,Embedded Systems,978-013000529,4.6,2008,Academic engineering reference textbook on embedded systems and electronics principles.
+630,Principles of Data Structures (Vol. 3),Siddharth Verma,Cyber Security,978-013000530,4.1,2016,Academic engineering reference textbook on cyber security and information technology principles.
+631,Modern Cyber Security (Vol. 4),Dev Chavan,Software Design,978-013000531,4.8,2004,Academic engineering reference textbook on software design and software engineering principles.
+632,Principles of Database Systems (Vol. 4),Rahul Gupta,Communication Systems,978-013000532,3.8,2023,Academic engineering reference textbook on communication systems and e&tc principles.
+633,Principles of Operating Systems (Vol. 2),Tanvi Chavan,Signal Processing,978-013000533,4.5,2015,Academic engineering reference textbook on signal processing and e&tc principles.
+634,Modern Embedded Systems (Vol. 2),Neha Patel,Cyber Security,978-013000534,4.0,2015,Academic engineering reference textbook on cyber security and information technology principles.
+635,Applied Cloud Computing (Vol. 2),Dev Chavan,Pattern Recognition,978-013000535,4.2,2002,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+636,Advanced Operating Systems (Vol. 3),Pooja Bhat,Clean Code,978-013000536,4.5,2010,Academic engineering reference textbook on clean code and software engineering principles.
+637,Handbook of Database Systems (Vol. 4),Ananya Malhotra,Cyber Security,978-013000537,4.2,2001,Academic engineering reference textbook on cyber security and information technology principles.
+638,Advanced Clean Code (Vol. 1),Rahul Joshi,Theory of Computation,978-013000538,4.3,2009,Academic engineering reference textbook on theory of computation and computer science principles.
+639,Modern Cyber Security (Vol. 2),Aditya Rao,Relational DB,978-013000539,4.9,2010,Academic engineering reference textbook on relational db and databases principles.
+640,Advanced VLSI Architecture (Vol. 2),Rohan Malhotra,Query Optimization,978-013000540,4.3,2010,Academic engineering reference textbook on query optimization and databases principles.
+641,Applied Algorithms (Vol. 1),Amit Deshmukh,Pattern Recognition,978-013000541,4.8,2006,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+642,Fundamentals of Cloud Computing (Vol. 1),Aditya Mehta,Deep Learning,978-013000542,4.0,2013,Academic engineering reference textbook on deep learning and ai & data science principles.
+643,Fundamentals of Signal Processing (Vol. 4),Aarav Sharma,Query Optimization,978-013000543,4.7,2017,Academic engineering reference textbook on query optimization and databases principles.
+644,Introduction to Robotics (Vol. 3),Yash Rao,Clean Code,978-013000544,5.0,2000,Academic engineering reference textbook on clean code and software engineering principles.
+645,Advanced Operating Systems (Vol. 3),Neha Verma,Signal Processing,978-013000545,3.5,2003,Academic engineering reference textbook on signal processing and e&tc principles.
+646,Advanced Deep Learning (Vol. 1),Neha Deshmukh,NoSQL,978-013000546,4.2,2014,Academic engineering reference textbook on nosql and databases principles.
+647,Applied Embedded Systems (Vol. 3),Shruti Kulkarni,DevOps,978-013000547,4.7,2024,Academic engineering reference textbook on devops and information technology principles.
+648,Modern Machine Learning (Vol. 1),Sneha Rao,Agile Architecture,978-013000548,4.4,2023,Academic engineering reference textbook on agile architecture and software engineering principles.
+649,Applied Algorithms (Vol. 2),Ananya Kulkarni,Deep Learning,978-013000549,4.6,2022,Academic engineering reference textbook on deep learning and ai & data science principles.
+650,Applied Database Systems (Vol. 1),Riya Sharma,Communication Systems,978-013000550,4.3,2021,Academic engineering reference textbook on communication systems and e&tc principles.
+651,Introduction to Operating Systems (Vol. 1),Pooja Malhotra,Algorithms,978-013000551,4.5,2012,Academic engineering reference textbook on algorithms and computer science principles.
+652,Fundamentals of Operating Systems (Vol. 2),Siddharth Nair,Computer Architecture,978-013000552,4.4,2021,Academic engineering reference textbook on computer architecture and computer science principles.
+653,Fundamentals of Data Structures (Vol. 1),Yash Deshmukh,Microcontrollers,978-013000553,5.0,2019,Academic engineering reference textbook on microcontrollers and e&tc principles.
+654,Modern Robotics (Vol. 1),Yash Nair,Data Mining,978-013000554,4.6,2019,Academic engineering reference textbook on data mining and ai & data science principles.
+655,Introduction to Cloud Computing (Vol. 1),Shruti Rao,Computer Architecture,978-013000555,4.6,2019,Academic engineering reference textbook on computer architecture and computer science principles.
+656,Modern Clean Code (Vol. 2),Kavya Nair,Clean Code,978-013000556,4.3,2013,Academic engineering reference textbook on clean code and software engineering principles.
+657,Introduction to Clean Code (Vol. 4),Siddharth Nair,VLSI Design,978-013000557,4.3,2015,Academic engineering reference textbook on vlsi design and electronics principles.
+658,Introduction to Algorithms (Vol. 1),Ananya Pawar,Cloud Computing,978-013000558,4.3,2018,Academic engineering reference textbook on cloud computing and information technology principles.
+659,Introduction to Cloud Computing (Vol. 1),Ananya Singh,Wireless Protocols,978-013000559,4.7,2008,Academic engineering reference textbook on wireless protocols and networking principles.
+660,Principles of Database Systems (Vol. 4),Priya Patel,Testing,978-013000560,4.3,2005,Academic engineering reference textbook on testing and software engineering principles.
+661,Principles of Cloud Computing (Vol. 3),Pooja Nair,Microcontrollers,978-013000561,4.6,2003,Academic engineering reference textbook on microcontrollers and e&tc principles.
+662,Introduction to Cyber Security (Vol. 2),Isha Kulkarni,Algorithms,978-013000562,5.0,2011,Academic engineering reference textbook on algorithms and computer science principles.
+663,Applied Deep Learning (Vol. 3),Dev Verma,Network Security,978-013000563,4.8,2003,Academic engineering reference textbook on network security and networking principles.
+664,Fundamentals of Database Systems (Vol. 4),Shruti Bhat,Query Optimization,978-013000564,4.4,2013,Academic engineering reference textbook on query optimization and databases principles.
+665,Advanced Operating Systems (Vol. 1),Isha Patel,AI/ML,978-013000565,5.0,2013,Academic engineering reference textbook on ai/ml and ai & data science principles.
+666,Advanced Pattern Recognition (Vol. 4),Kavya Mehta,IoT,978-013000566,4.3,2000,Academic engineering reference textbook on iot and networking principles.
+667,Fundamentals of Deep Learning (Vol. 4),Amit Sharma,Data Mining,978-013000567,3.7,2002,Academic engineering reference textbook on data mining and ai & data science principles.
+668,Introduction to Operating Systems (Vol. 2),Dev Joshi,Embedded Systems,978-013000568,4.1,2016,Academic engineering reference textbook on embedded systems and electronics principles.
+669,Applied Operating Systems (Vol. 2),Shruti Kulkarni,Theory of Computation,978-013000569,3.8,2021,Academic engineering reference textbook on theory of computation and computer science principles.
+670,Modern Cyber Security (Vol. 1),Aarav Chavan,Distributed Databases,978-013000570,4.4,2005,Academic engineering reference textbook on distributed databases and databases principles.
+671,Modern Embedded Systems (Vol. 1),Shruti Kulkarni,IoT,978-013000571,4.5,2007,Academic engineering reference textbook on iot and networking principles.
+672,Introduction to Clean Code (Vol. 2),Tanvi Chavan,Cyber Security,978-013000572,5.0,2012,Academic engineering reference textbook on cyber security and information technology principles.
+673,Introduction to Signal Processing (Vol. 4),Manish Malhotra,Distributed Databases,978-013000573,4.6,2002,Academic engineering reference textbook on distributed databases and databases principles.
+674,Principles of Deep Learning (Vol. 4),Aarav Patel,IoT,978-013000574,4.4,2012,Academic engineering reference textbook on iot and networking principles.
+675,Handbook of Clean Code (Vol. 1),Rohan Bhat,Relational DB,978-013000575,4.8,2019,Academic engineering reference textbook on relational db and databases principles.
+676,Applied Data Structures (Vol. 4),Dev Kulkarni,VLSI Design,978-013000576,3.6,2001,Academic engineering reference textbook on vlsi design and electronics principles.
+677,Principles of Clean Code (Vol. 4),Kavya Nair,Testing,978-013000577,4.6,2014,Academic engineering reference textbook on testing and software engineering principles.
+678,Modern Data Structures (Vol. 2),Aarav Kulkarni,Algorithms,978-013000578,4.8,2011,Academic engineering reference textbook on algorithms and computer science principles.
+679,Applied Deep Learning (Vol. 1),Isha Malhotra,Embedded Systems,978-013000579,3.9,2004,Academic engineering reference textbook on embedded systems and electronics principles.
+680,Principles of Pattern Recognition (Vol. 2),Siddharth Patel,Relational DB,978-013000580,5.0,2012,Academic engineering reference textbook on relational db and databases principles.
+681,Modern Cloud Computing (Vol. 2),Dev Patel,Testing,978-013000581,4.6,2024,Academic engineering reference textbook on testing and software engineering principles.
+682,Applied Cyber Security (Vol. 1),Amit Malhotra,Relational DB,978-013000582,4.3,2021,Academic engineering reference textbook on relational db and databases principles.
+683,Introduction to Clean Code (Vol. 1),Tanvi Singh,Data Mining,978-013000583,4.8,2013,Academic engineering reference textbook on data mining and ai & data science principles.
+684,Applied Pattern Recognition (Vol. 2),Aditya Patel,Wireless Protocols,978-013000584,5.0,2012,Academic engineering reference textbook on wireless protocols and networking principles.
+685,Fundamentals of Pattern Recognition (Vol. 2),Vikram Gupta,DevOps,978-013000585,4.6,2010,Academic engineering reference textbook on devops and information technology principles.
+686,Modern Embedded Systems (Vol. 2),Pooja Mehta,Robotics,978-013000586,4.6,2022,Academic engineering reference textbook on robotics and electronics principles.
+687,Applied Operating Systems (Vol. 2),Siddharth Rao,Embedded Systems,978-013000587,4.3,2019,Academic engineering reference textbook on embedded systems and electronics principles.
+688,Applied Embedded Systems (Vol. 2),Yash Joshi,Embedded Systems,978-013000588,4.2,2022,Academic engineering reference textbook on embedded systems and electronics principles.
+689,Modern VLSI Architecture (Vol. 4),Manish Mehta,Web Technologies,978-013000589,4.8,2021,Academic engineering reference textbook on web technologies and information technology principles.
+690,Modern Machine Learning (Vol. 1),Yash Patel,NoSQL,978-013000590,4.2,2000,Academic engineering reference textbook on nosql and databases principles.
+691,Introduction to Data Structures (Vol. 1),Siddharth Deshmukh,Distributed Databases,978-013000591,4.5,2024,Academic engineering reference textbook on distributed databases and databases principles.
+692,Applied Database Systems (Vol. 2),Priya Nair,Pattern Recognition,978-013000592,4.3,2009,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+693,Principles of Cyber Security (Vol. 4),Ananya Mehta,Software Design,978-013000593,4.7,2021,Academic engineering reference textbook on software design and software engineering principles.
+694,Advanced Clean Code (Vol. 3),Priya Singh,Testing,978-013000594,4.6,2012,Academic engineering reference textbook on testing and software engineering principles.
+695,Modern Data Structures (Vol. 3),Tanvi Sharma,Query Optimization,978-013000595,4.9,2000,Academic engineering reference textbook on query optimization and databases principles.
+696,Handbook of Cyber Security (Vol. 4),Sneha Singh,VLSI Design,978-013000596,4.3,2020,Academic engineering reference textbook on vlsi design and electronics principles.
+697,Modern Operating Systems (Vol. 2),Neha Malhotra,Cloud Computing,978-013000597,4.4,2005,Academic engineering reference textbook on cloud computing and information technology principles.
+698,Advanced Operating Systems (Vol. 1),Rahul Sharma,Operating Systems,978-013000598,4.1,2013,Academic engineering reference textbook on operating systems and computer science principles.
+699,Advanced Embedded Systems (Vol. 3),Aarav Kulkarni,Embedded Systems,978-013000599,4.3,2014,Academic engineering reference textbook on embedded systems and electronics principles.
+700,Advanced Robotics (Vol. 3),Riya Sharma,AI/ML,978-013000600,4.7,2024,Academic engineering reference textbook on ai/ml and ai & data science principles.
+701,Modern Pattern Recognition (Vol. 3),Rohan Bhat,Robotics,978-013000601,4.8,2022,Academic engineering reference textbook on robotics and electronics principles.
+702,Advanced Clean Code (Vol. 1),Yash Verma,Cloud Computing,978-013000602,4.1,2013,Academic engineering reference textbook on cloud computing and information technology principles.
+703,Principles of Computer Networks (Vol. 2),Dev Kulkarni,Relational DB,978-013000603,4.8,2011,Academic engineering reference textbook on relational db and databases principles.
+704,Modern Pattern Recognition (Vol. 4),Tanvi Pawar,VLSI Design,978-013000604,5.0,2024,Academic engineering reference textbook on vlsi design and electronics principles.
+705,Applied VLSI Architecture (Vol. 4),Sneha Singh,Electronics,978-013000605,4.7,2020,Academic engineering reference textbook on electronics and e&tc principles.
+706,Applied Robotics (Vol. 3),Rahul Singh,Software Design,978-013000606,5.0,2003,Academic engineering reference textbook on software design and software engineering principles.
+707,Handbook of Operating Systems (Vol. 3),Aarav Singh,NoSQL,978-013000607,4.2,2016,Academic engineering reference textbook on nosql and databases principles.
+708,Fundamentals of Algorithms (Vol. 3),Siddharth Kulkarni,DevOps,978-013000608,4.0,2016,Academic engineering reference textbook on devops and information technology principles.
+709,Advanced Cloud Computing (Vol. 1),Rohan Rao,Algorithms,978-013000609,3.8,2021,Academic engineering reference textbook on algorithms and computer science principles.
+710,Modern Deep Learning (Vol. 2),Tanvi Pawar,Testing,978-013000610,5.0,2022,Academic engineering reference textbook on testing and software engineering principles.
+711,Applied Data Structures (Vol. 2),Aarav Malhotra,Relational DB,978-013000611,4.8,2022,Academic engineering reference textbook on relational db and databases principles.
+712,Introduction to Deep Learning (Vol. 1),Isha Bhat,Web Technologies,978-013000612,4.5,2008,Academic engineering reference textbook on web technologies and information technology principles.
+713,Principles of Machine Learning (Vol. 4),Amit Chavan,Operating Systems,978-013000613,4.6,2012,Academic engineering reference textbook on operating systems and computer science principles.
+714,Introduction to Machine Learning (Vol. 1),Tanvi Sharma,NoSQL,978-013000614,4.0,2020,Academic engineering reference textbook on nosql and databases principles.
+715,Applied Cyber Security (Vol. 1),Kavya Singh,Algorithms,978-013000615,5.0,2016,Academic engineering reference textbook on algorithms and computer science principles.
+716,Modern Data Structures (Vol. 3),Riya Patel,Computer Architecture,978-013000616,4.6,2009,Academic engineering reference textbook on computer architecture and computer science principles.
+717,Fundamentals of Cyber Security (Vol. 1),Shruti Verma,IoT,978-013000617,4.5,2017,Academic engineering reference textbook on iot and networking principles.
+718,Applied Machine Learning (Vol. 3),Aditya Deshmukh,Agile Architecture,978-013000618,4.8,2021,Academic engineering reference textbook on agile architecture and software engineering principles.
+719,Handbook of Cyber Security (Vol. 2),Ananya Sharma,Web Technologies,978-013000619,4.7,2000,Academic engineering reference textbook on web technologies and information technology principles.
+720,Principles of Computer Networks (Vol. 3),Siddharth Gupta,Relational DB,978-013000620,4.6,2020,Academic engineering reference textbook on relational db and databases principles.
+721,Advanced Computer Networks (Vol. 3),Siddharth Patel,Deep Learning,978-013000621,4.2,2005,Academic engineering reference textbook on deep learning and ai & data science principles.
+722,Applied Clean Code (Vol. 1),Neha Chavan,Communication Systems,978-013000622,4.7,2002,Academic engineering reference textbook on communication systems and e&tc principles.
+723,Advanced Operating Systems (Vol. 4),Dev Kulkarni,Semiconductors,978-013000623,5.0,2004,Academic engineering reference textbook on semiconductors and electronics principles.
+724,Principles of Pattern Recognition (Vol. 1),Siddharth Kulkarni,Software Design,978-013000624,5.0,2015,Academic engineering reference textbook on software design and software engineering principles.
+725,Handbook of Data Structures (Vol. 3),Manish Verma,Network Security,978-013000625,5.0,2018,Academic engineering reference textbook on network security and networking principles.
+726,Fundamentals of Embedded Systems (Vol. 1),Dev Rao,Cyber Security,978-013000626,4.3,2007,Academic engineering reference textbook on cyber security and information technology principles.
+727,Modern VLSI Architecture (Vol. 2),Dev Singh,NoSQL,978-013000627,4.1,2015,Academic engineering reference textbook on nosql and databases principles.
+728,Principles of Cloud Computing (Vol. 3),Shruti Joshi,IoT,978-013000628,4.4,2003,Academic engineering reference textbook on iot and networking principles.
+729,Modern Database Systems (Vol. 2),Tanvi Rao,AI/ML,978-013000629,4.5,2008,Academic engineering reference textbook on ai/ml and ai & data science principles.
+730,Introduction to Cyber Security (Vol. 1),Manish Mehta,Algorithms,978-013000630,4.9,2012,Academic engineering reference textbook on algorithms and computer science principles.
+731,Handbook of Database Systems (Vol. 4),Aditya Kulkarni,Software Design,978-013000631,3.8,2012,Academic engineering reference textbook on software design and software engineering principles.
+732,Advanced Signal Processing (Vol. 1),Rahul Kulkarni,Clean Code,978-013000632,5.0,2016,Academic engineering reference textbook on clean code and software engineering principles.
+733,Modern Cloud Computing (Vol. 2),Yash Verma,Signal Processing,978-013000633,4.4,2014,Academic engineering reference textbook on signal processing and e&tc principles.
+734,Handbook of Pattern Recognition (Vol. 2),Shruti Kulkarni,Deep Learning,978-013000634,4.3,2001,Academic engineering reference textbook on deep learning and ai & data science principles.
+735,Advanced Deep Learning (Vol. 3),Kavya Rao,Testing,978-013000635,4.1,2001,Academic engineering reference textbook on testing and software engineering principles.
+736,Fundamentals of Signal Processing (Vol. 4),Priya Sharma,Clean Code,978-013000636,3.8,2020,Academic engineering reference textbook on clean code and software engineering principles.
+737,Applied Clean Code (Vol. 3),Vikram Mehta,Web Technologies,978-013000637,4.8,2017,Academic engineering reference textbook on web technologies and information technology principles.
+738,Applied Machine Learning (Vol. 3),Manish Chavan,Data Mining,978-013000638,4.5,2002,Academic engineering reference textbook on data mining and ai & data science principles.
+739,Advanced Clean Code (Vol. 4),Kavya Pawar,Robotics,978-013000639,4.0,2011,Academic engineering reference textbook on robotics and electronics principles.
+740,Handbook of Algorithms (Vol. 2),Amit Verma,IoT,978-013000640,4.0,2007,Academic engineering reference textbook on iot and networking principles.
+741,Advanced Embedded Systems (Vol. 2),Isha Kulkarni,Computer Architecture,978-013000641,4.4,2019,Academic engineering reference textbook on computer architecture and computer science principles.
+742,Fundamentals of Cloud Computing (Vol. 3),Ananya Malhotra,Operating Systems,978-013000642,5.0,2021,Academic engineering reference textbook on operating systems and computer science principles.
+743,Advanced Pattern Recognition (Vol. 2),Pooja Sharma,IoT,978-013000643,4.4,2007,Academic engineering reference textbook on iot and networking principles.
+744,Handbook of Pattern Recognition (Vol. 2),Aditya Chavan,Signal Processing,978-013000644,3.9,2016,Academic engineering reference textbook on signal processing and e&tc principles.
+745,Introduction to Embedded Systems (Vol. 3),Isha Joshi,Signal Processing,978-013000645,4.4,2012,Academic engineering reference textbook on signal processing and e&tc principles.
+746,Introduction to Computer Networks (Vol. 4),Riya Malhotra,Microcontrollers,978-013000646,4.4,2015,Academic engineering reference textbook on microcontrollers and e&tc principles.
+747,Modern Machine Learning (Vol. 2),Manish Pawar,Deep Learning,978-013000647,3.4,2024,Academic engineering reference textbook on deep learning and ai & data science principles.
+748,Advanced Operating Systems (Vol. 3),Amit Mehta,Pattern Recognition,978-013000648,4.5,2018,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+749,Fundamentals of Machine Learning (Vol. 2),Ananya Sharma,Operating Systems,978-013000649,4.4,2006,Academic engineering reference textbook on operating systems and computer science principles.
+750,Handbook of Deep Learning (Vol. 2),Shruti Singh,Distributed Databases,978-013000650,4.8,2019,Academic engineering reference textbook on distributed databases and databases principles.
+751,Introduction to Signal Processing (Vol. 2),Riya Joshi,Electronics,978-013000651,5.0,2000,Academic engineering reference textbook on electronics and e&tc principles.
+752,Principles of Cyber Security (Vol. 1),Yash Gupta,Query Optimization,978-013000652,5.0,2007,Academic engineering reference textbook on query optimization and databases principles.
+753,Principles of Pattern Recognition (Vol. 1),Pooja Verma,IoT,978-013000653,4.4,2008,Academic engineering reference textbook on iot and networking principles.
+754,Modern Deep Learning (Vol. 3),Riya Singh,Wireless Protocols,978-013000654,4.1,2017,Academic engineering reference textbook on wireless protocols and networking principles.
+755,Advanced Algorithms (Vol. 1),Manish Joshi,NoSQL,978-013000655,5.0,2003,Academic engineering reference textbook on nosql and databases principles.
+756,Applied Computer Networks (Vol. 3),Pooja Kulkarni,Communication Systems,978-013000656,4.5,2003,Academic engineering reference textbook on communication systems and e&tc principles.
+757,Applied Pattern Recognition (Vol. 3),Vikram Pawar,Data Mining,978-013000657,4.5,2017,Academic engineering reference textbook on data mining and ai & data science principles.
+758,Handbook of Database Systems (Vol. 4),Siddharth Gupta,NoSQL,978-013000658,4.5,2017,Academic engineering reference textbook on nosql and databases principles.
+759,Principles of Clean Code (Vol. 4),Vikram Deshmukh,Wireless Protocols,978-013000659,4.6,2018,Academic engineering reference textbook on wireless protocols and networking principles.
+760,Applied Embedded Systems (Vol. 1),Sneha Malhotra,DevOps,978-013000660,4.4,2022,Academic engineering reference textbook on devops and information technology principles.
+761,Advanced Clean Code (Vol. 4),Dev Bhat,AI/ML,978-013000661,4.3,2017,Academic engineering reference textbook on ai/ml and ai & data science principles.
+762,Fundamentals of Data Structures (Vol. 1),Rohan Pawar,Signal Processing,978-013000662,4.3,2004,Academic engineering reference textbook on signal processing and e&tc principles.
+763,Introduction to Deep Learning (Vol. 3),Sneha Kulkarni,IoT,978-013000663,4.5,2002,Academic engineering reference textbook on iot and networking principles.
+764,Fundamentals of Pattern Recognition (Vol. 3),Riya Sharma,Communication Systems,978-013000664,4.3,2024,Academic engineering reference textbook on communication systems and e&tc principles.
+765,Fundamentals of Algorithms (Vol. 2),Yash Deshmukh,Data Mining,978-013000665,4.2,2006,Academic engineering reference textbook on data mining and ai & data science principles.
+766,Handbook of Embedded Systems (Vol. 1),Kavya Rao,Signal Processing,978-013000666,4.5,2020,Academic engineering reference textbook on signal processing and e&tc principles.
+767,Introduction to Database Systems (Vol. 4),Kavya Chavan,Signal Processing,978-013000667,4.4,2012,Academic engineering reference textbook on signal processing and e&tc principles.
+768,Handbook of Algorithms (Vol. 1),Rohan Joshi,Distributed Databases,978-013000668,5.0,2009,Academic engineering reference textbook on distributed databases and databases principles.
+769,Modern Database Systems (Vol. 2),Riya Rao,Cyber Security,978-013000669,3.4,2014,Academic engineering reference textbook on cyber security and information technology principles.
+770,Principles of Embedded Systems (Vol. 4),Yash Patel,Relational DB,978-013000670,4.9,2017,Academic engineering reference textbook on relational db and databases principles.
+771,Principles of Deep Learning (Vol. 3),Tanvi Pawar,Computer Architecture,978-013000671,5.0,2018,Academic engineering reference textbook on computer architecture and computer science principles.
+772,Fundamentals of Pattern Recognition (Vol. 4),Sneha Bhat,Robotics,978-013000672,3.7,2010,Academic engineering reference textbook on robotics and electronics principles.
+773,Handbook of Cyber Security (Vol. 1),Shruti Patel,IoT,978-013000673,4.4,2008,Academic engineering reference textbook on iot and networking principles.
+774,Applied Cloud Computing (Vol. 2),Sneha Bhat,Theory of Computation,978-013000674,4.4,2010,Academic engineering reference textbook on theory of computation and computer science principles.
+775,Handbook of Clean Code (Vol. 1),Vikram Rao,NoSQL,978-013000675,3.9,2009,Academic engineering reference textbook on nosql and databases principles.
+776,Applied Operating Systems (Vol. 3),Rohan Joshi,Theory of Computation,978-013000676,4.2,2005,Academic engineering reference textbook on theory of computation and computer science principles.
+777,Principles of Computer Networks (Vol. 3),Isha Nair,Network Security,978-013000677,4.1,2021,Academic engineering reference textbook on network security and networking principles.
+778,Applied Computer Networks (Vol. 2),Sneha Pawar,Testing,978-013000678,5.0,2008,Academic engineering reference textbook on testing and software engineering principles.
+779,Advanced Cyber Security (Vol. 2),Riya Kulkarni,Agile Architecture,978-013000679,4.9,2004,Academic engineering reference textbook on agile architecture and software engineering principles.
+780,Introduction to Data Structures (Vol. 4),Riya Sharma,Algorithms,978-013000680,5.0,2024,Academic engineering reference textbook on algorithms and computer science principles.
+781,Principles of Pattern Recognition (Vol. 3),Shruti Singh,Communication Systems,978-013000681,4.8,2018,Academic engineering reference textbook on communication systems and e&tc principles.
+782,Advanced Cloud Computing (Vol. 3),Rahul Rao,Robotics,978-013000682,4.0,2024,Academic engineering reference textbook on robotics and electronics principles.
+783,Handbook of Cloud Computing (Vol. 4),Shruti Joshi,AI/ML,978-013000683,4.3,2001,Academic engineering reference textbook on ai/ml and ai & data science principles.
+784,Modern Data Structures (Vol. 2),Amit Patel,DevOps,978-013000684,4.7,2022,Academic engineering reference textbook on devops and information technology principles.
+785,Applied Algorithms (Vol. 1),Siddharth Gupta,Network Security,978-013000685,4.0,2018,Academic engineering reference textbook on network security and networking principles.
+786,Principles of Pattern Recognition (Vol. 3),Isha Joshi,Computer Architecture,978-013000686,4.8,2008,Academic engineering reference textbook on computer architecture and computer science principles.
+787,Fundamentals of Pattern Recognition (Vol. 3),Kavya Verma,Clean Code,978-013000687,4.4,2015,Academic engineering reference textbook on clean code and software engineering principles.
+788,Fundamentals of Operating Systems (Vol. 3),Kavya Pawar,Distributed Databases,978-013000688,4.4,2012,Academic engineering reference textbook on distributed databases and databases principles.
+789,Advanced Pattern Recognition (Vol. 2),Manish Chavan,Robotics,978-013000689,4.8,2007,Academic engineering reference textbook on robotics and electronics principles.
+790,Modern Computer Networks (Vol. 4),Rahul Rao,Computer Architecture,978-013000690,4.7,2004,Academic engineering reference textbook on computer architecture and computer science principles.
+791,Modern Algorithms (Vol. 2),Pooja Malhotra,Data Mining,978-013000691,4.4,2004,Academic engineering reference textbook on data mining and ai & data science principles.
+792,Principles of Database Systems (Vol. 1),Rahul Patel,DevOps,978-013000692,5.0,2022,Academic engineering reference textbook on devops and information technology principles.
+793,Advanced Cyber Security (Vol. 3),Shruti Pawar,AI/ML,978-013000693,4.1,2020,Academic engineering reference textbook on ai/ml and ai & data science principles.
+794,Applied VLSI Architecture (Vol. 3),Kavya Kulkarni,Theory of Computation,978-013000694,4.7,2017,Academic engineering reference textbook on theory of computation and computer science principles.
+795,Introduction to Machine Learning (Vol. 1),Kavya Pawar,Embedded Systems,978-013000695,4.7,2021,Academic engineering reference textbook on embedded systems and electronics principles.
+796,Modern Database Systems (Vol. 3),Dev Chavan,Agile Architecture,978-013000696,4.4,2016,Academic engineering reference textbook on agile architecture and software engineering principles.
+797,Introduction to Machine Learning (Vol. 3),Amit Chavan,IoT,978-013000697,4.6,2004,Academic engineering reference textbook on iot and networking principles.
+798,Fundamentals of Data Structures (Vol. 4),Rohan Patel,Pattern Recognition,978-013000698,4.0,2005,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+799,Principles of VLSI Architecture (Vol. 3),Vikram Mehta,Cloud Computing,978-013000699,4.9,2020,Academic engineering reference textbook on cloud computing and information technology principles.
+800,Fundamentals of Cloud Computing (Vol. 3),Manish Joshi,NoSQL,978-013000700,4.4,2014,Academic engineering reference textbook on nosql and databases principles.
+801,Advanced Cyber Security (Vol. 1),Aditya Nair,Distributed Databases,978-013000701,4.3,2007,Academic engineering reference textbook on distributed databases and databases principles.
+802,Advanced Embedded Systems (Vol. 4),Ananya Patel,Semiconductors,978-013000702,4.9,2002,Academic engineering reference textbook on semiconductors and electronics principles.
+803,Introduction to Cloud Computing (Vol. 4),Yash Bhat,Computer Networks,978-013000703,4.2,2002,Academic engineering reference textbook on computer networks and networking principles.
+804,Handbook of Embedded Systems (Vol. 1),Rahul Deshmukh,Computer Architecture,978-013000704,3.9,2007,Academic engineering reference textbook on computer architecture and computer science principles.
+805,Fundamentals of Data Structures (Vol. 2),Aditya Joshi,Clean Code,978-013000705,3.9,2005,Academic engineering reference textbook on clean code and software engineering principles.
+806,Applied VLSI Architecture (Vol. 3),Shruti Malhotra,Electronics,978-013000706,4.7,2017,Academic engineering reference textbook on electronics and e&tc principles.
+807,Advanced Operating Systems (Vol. 2),Manish Mehta,Robotics,978-013000707,4.0,2014,Academic engineering reference textbook on robotics and electronics principles.
+808,Principles of Signal Processing (Vol. 2),Rohan Malhotra,NoSQL,978-013000708,5.0,2009,Academic engineering reference textbook on nosql and databases principles.
+809,Principles of Embedded Systems (Vol. 3),Aarav Sharma,DevOps,978-013000709,3.7,2016,Academic engineering reference textbook on devops and information technology principles.
+810,Principles of Signal Processing (Vol. 1),Shruti Bhat,Pattern Recognition,978-013000710,5.0,2015,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+811,Modern Machine Learning (Vol. 3),Riya Rao,Semiconductors,978-013000711,4.6,2000,Academic engineering reference textbook on semiconductors and electronics principles.
+812,Fundamentals of Robotics (Vol. 4),Rahul Rao,Cloud Computing,978-013000712,4.5,2005,Academic engineering reference textbook on cloud computing and information technology principles.
+813,Advanced Database Systems (Vol. 1),Pooja Chavan,Query Optimization,978-013000713,4.3,2007,Academic engineering reference textbook on query optimization and databases principles.
+814,Applied Operating Systems (Vol. 3),Pooja Rao,Embedded Systems,978-013000714,4.7,2002,Academic engineering reference textbook on embedded systems and electronics principles.
+815,Principles of Deep Learning (Vol. 4),Riya Malhotra,Deep Learning,978-013000715,4.5,2008,Academic engineering reference textbook on deep learning and ai & data science principles.
+816,Principles of Algorithms (Vol. 2),Priya Joshi,Wireless Protocols,978-013000716,4.9,2000,Academic engineering reference textbook on wireless protocols and networking principles.
+817,Principles of Database Systems (Vol. 2),Amit Nair,AI/ML,978-013000717,4.5,2000,Academic engineering reference textbook on ai/ml and ai & data science principles.
+818,Advanced Algorithms (Vol. 4),Siddharth Kulkarni,Software Design,978-013000718,4.6,2013,Academic engineering reference textbook on software design and software engineering principles.
+819,Principles of Signal Processing (Vol. 1),Dev Patel,Robotics,978-013000719,4.4,2024,Academic engineering reference textbook on robotics and electronics principles.
+820,Principles of Cloud Computing (Vol. 4),Rohan Joshi,AI/ML,978-013000720,4.5,2015,Academic engineering reference textbook on ai/ml and ai & data science principles.
+821,Modern Database Systems (Vol. 4),Aarav Patel,Deep Learning,978-013000721,4.6,2024,Academic engineering reference textbook on deep learning and ai & data science principles.
+822,Modern Signal Processing (Vol. 2),Priya Rao,Testing,978-013000722,3.8,2014,Academic engineering reference textbook on testing and software engineering principles.
+823,Fundamentals of Machine Learning (Vol. 3),Dev Verma,Operating Systems,978-013000723,4.0,2020,Academic engineering reference textbook on operating systems and computer science principles.
+824,Principles of Signal Processing (Vol. 3),Siddharth Kulkarni,Electronics,978-013000724,4.8,2001,Academic engineering reference textbook on electronics and e&tc principles.
+825,Advanced Data Structures (Vol. 4),Dev Sharma,Software Design,978-013000725,4.6,2005,Academic engineering reference textbook on software design and software engineering principles.
+826,Fundamentals of Cloud Computing (Vol. 2),Aarav Sharma,Semiconductors,978-013000726,4.4,2018,Academic engineering reference textbook on semiconductors and electronics principles.
+827,Principles of Cloud Computing (Vol. 1),Sneha Verma,Wireless Protocols,978-013000727,4.5,2015,Academic engineering reference textbook on wireless protocols and networking principles.
+828,Modern Data Structures (Vol. 1),Priya Kulkarni,Computer Architecture,978-013000728,4.6,2020,Academic engineering reference textbook on computer architecture and computer science principles.
+829,Advanced Signal Processing (Vol. 2),Dev Joshi,AI/ML,978-013000729,4.3,2020,Academic engineering reference textbook on ai/ml and ai & data science principles.
+830,Applied Computer Networks (Vol. 1),Rahul Kulkarni,DevOps,978-013000730,4.2,2023,Academic engineering reference textbook on devops and information technology principles.
+831,Introduction to Signal Processing (Vol. 4),Tanvi Deshmukh,Pattern Recognition,978-013000731,4.6,2017,Academic engineering reference textbook on pattern recognition and ai & data science principles.
+832,Handbook of Embedded Systems (Vol. 3),Dev Nair,Wireless Protocols,978-013000732,4.1,2014,Academic engineering reference textbook on wireless protocols and networking principles.
+833,Introduction to Clean Code (Vol. 2),Amit Deshmukh,VLSI Design,978-013000733,4.7,2008,Academic engineering reference textbook on vlsi design and electronics principles.
+834,Introduction to Cloud Computing (Vol. 4),Isha Singh,DevOps,978-013000734,3.8,2000,Academic engineering reference textbook on devops and information technology principles.
+835,Principles of Operating Systems (Vol. 1),Tanvi Pawar,Cloud Computing,978-013000735,4.9,2012,Academic engineering reference textbook on cloud computing and information technology principles.
+836,Modern Clean Code (Vol. 2),Riya Deshmukh,Testing,978-013000736,4.7,2010,Academic engineering reference textbook on testing and software engineering principles.
+837,Introduction to Deep Learning (Vol. 1),Priya Pawar,NoSQL,978-013000737,4.6,2004,Academic engineering reference textbook on nosql and databases principles.
+838,Advanced Deep Learning (Vol. 4),Siddharth Patel,AI/ML,978-013000738,4.9,2001,Academic engineering reference textbook on ai/ml and ai & data science principles.
+839,Handbook of Pattern Recognition (Vol. 3),Priya Kulkarni,Query Optimization,978-013000739,5.0,2007,Academic engineering reference textbook on query optimization and databases principles.
+840,Advanced Data Structures (Vol. 4),Rohan Malhotra,Algorithms,978-013000740,4.9,2020,Academic engineering reference textbook on algorithms and computer science principles.
+841,Handbook of Operating Systems (Vol. 4),Kavya Bhat,Microcontrollers,978-013000741,3.8,2022,Academic engineering reference textbook on microcontrollers and e&tc principles.
+842,Handbook of Algorithms (Vol. 1),Neha Patel,Microcontrollers,978-013000742,4.0,2006,Academic engineering reference textbook on microcontrollers and e&tc principles.
+843,Applied Computer Networks (Vol. 4),Siddharth Rao,Algorithms,978-013000743,4.3,2016,Academic engineering reference textbook on algorithms and computer science principles.
+844,Handbook of Operating Systems (Vol. 4),Ananya Bhat,Agile Architecture,978-013000744,4.5,2020,Academic engineering reference textbook on agile architecture and software engineering principles.
+845,Applied Data Structures (Vol. 4),Ananya Verma,DevOps,978-013000745,4.7,2005,Academic engineering reference textbook on devops and information technology principles.
+846,Applied Embedded Systems (Vol. 4),Kavya Singh,NoSQL,978-013000746,4.2,2010,Academic engineering reference textbook on nosql and databases principles.
+847,Fundamentals of Cloud Computing (Vol. 4),Dev Mehta,Cyber Security,978-013000747,4.6,2007,Academic engineering reference textbook on cyber security and information technology principles.
+848,Modern Clean Code (Vol. 3),Kavya Malhotra,Testing,978-013000748,4.2,2014,Academic engineering reference textbook on testing and software engineering principles.
+849,Applied Algorithms (Vol. 3),Riya Sharma,Relational DB,978-013000749,4.3,2016,Academic engineering reference textbook on relational db and databases principles.
+850,Introduction to Database Systems (Vol. 2),Siddharth Pawar,Pattern Recognition,978-013000750,3.9,2010,Academic engineering reference textbook on pattern recognition and ai & data science principles.

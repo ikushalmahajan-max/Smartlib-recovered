@@ -1,0 +1,4 @@
+User_Group,Total_Group_Users,Eligible_Test_Users,Evaluated_Users,Precision@5,Recall@5,F1@5,NDCG@5
+Cold-Start Users (<=1 loan),111,11,11,0.0364,0.1818,0.0606,0.1301
+Sparse-History Users (2-5 loans),42,42,42,0.0429,0.2143,0.0714,0.1608
+Normal-History Users (>5 loans),97,97,97,0.1113,0.131,0.0975,0.1631

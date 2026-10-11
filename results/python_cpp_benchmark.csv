@@ -1,0 +1,17 @@
+Language,Operation,Dataset_Size,Num_Operations,Repetitions,Mean_Time_ms,Std_Dev_ms,Min_Time_ms,Max_Time_ms,Execution_Status
+Python,BST Search,100,1000,5,0.000308,7.6e-05,0.000265,0.00046,Measured
+Python,Hash Lookup,100,1000,5,0.001799,0.000163,0.001682,0.00212,Measured
+C++ (Compiled),BST Search,100,1000,0,,,,,Not Executed (Compiler Unavailable)
+C++ (Compiled),Hash Lookup,100,1000,0,,,,,Not Executed (Compiler Unavailable)
+Python,BST Search,1000,1000,5,0.00052,0.000122,0.000439,0.000764,Measured
+Python,Hash Lookup,1000,1000,5,0.001793,6.7e-05,0.001724,0.001907,Measured
+C++ (Compiled),BST Search,1000,1000,0,,,,,Not Executed (Compiler Unavailable)
+C++ (Compiled),Hash Lookup,1000,1000,0,,,,,Not Executed (Compiler Unavailable)
+Python,BST Search,10000,1000,5,0.000907,0.000323,0.00065,0.001454,Measured
+Python,Hash Lookup,10000,1000,5,0.001942,0.000187,0.001724,0.002196,Measured
+C++ (Compiled),BST Search,10000,1000,0,,,,,Not Executed (Compiler Unavailable)
+C++ (Compiled),Hash Lookup,10000,1000,0,,,,,Not Executed (Compiler Unavailable)
+Python,BST Search,50000,1000,5,0.001302,0.000197,0.001039,0.001578,Measured
+Python,Hash Lookup,50000,1000,5,0.002158,0.000285,0.001931,0.00271,Measured
+C++ (Compiled),BST Search,50000,1000,0,,,,,Not Executed (Compiler Unavailable)
+C++ (Compiled),Hash Lookup,50000,1000,0,,,,,Not Executed (Compiler Unavailable)

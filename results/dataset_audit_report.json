@@ -1,0 +1,40 @@
+{
+  "users_missing_in_users_table": [],
+  "books_missing_in_books_table": [],
+  "duplicate_user_ids": [],
+  "duplicate_book_ids": [],
+  "duplicate_transaction_ids": [],
+  "duplicate_borrow_records": [],
+  "users_null_fields": {
+    "user_id": 0,
+    "name": 0,
+    "department": 0,
+    "year": 0,
+    "email": 0
+  },
+  "books_null_fields": {
+    "book_id": 0,
+    "title": 0,
+    "author": 0,
+    "genre": 0,
+    "isbn": 0,
+    "rating": 0,
+    "publication_year": 0,
+    "description": 0
+  },
+  "borrow_null_fields": {
+    "transaction_id": 0,
+    "user_id": 0,
+    "book_id": 0,
+    "borrow_date": 0
+  },
+  "invalid_ratings": [],
+  "summary": {
+    "total_users_records": 250,
+    "unique_user_ids": 250,
+    "total_books_records": 750,
+    "unique_book_ids": 750,
+    "total_borrow_records": 4000,
+    "has_critical_fk_errors": false
+  }
+}
